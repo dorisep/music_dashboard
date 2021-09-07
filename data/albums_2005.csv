@@ -1,0 +1,464 @@
+artist,album,date,week_num,meta_score,user_score
+Sufjan Stevens,Illinois,"July 5, 2005",27,90,89
+My Morning Jacket,Z,"October 4, 2005",40,90,84
+Isolée,Wearemonster,"June 6, 2005",23,89,84
+Belle and Sebastian,Push Barman To Open Old Wounds,"May 24, 2005",21,89,88
+Lightning Bolt,Hypermagic Mountain,"October 18, 2005",42,88,66
+Sleater-Kinney,The Woods,"May 24, 2005",21,88,84
+Antony and the Johnsons,I Am A Bird Now,"February 1, 2005",5,88,83
+M.I.A.,Arular,"March 22, 2005",12,88,84
+Konono No. 1,Congotronics,"September 27, 2005",39,87,72
+The Hold Steady,Separation Sunday,"May 3, 2005",18,86,87
+Kraftwerk,Minimum-Maximum [Live],"June 7, 2005",23,86,86
+The Go! Team,"Thunder, Lightning, Strike","October 4, 2005",40,86,87
+LCD Soundsystem,LCD Soundsystem,"February 15, 2005",7,86,80
+Okkervil River,Black Sheep Boy,"April 5, 2005",14,86,88
+Ry Cooder,Chavez Ravine,"June 14, 2005",24,86,88
+Andrew Bird,The Mysterious Production Of Eggs,"February 8, 2005",6,85,88
+Bright Eyes,"I'm Wide Awake, It's Morning","January 25, 2005",4,85,81
+Kanye West,Late Registration,"August 30, 2005",35,85,84
+System Of A Down,Mezmerize,"May 17, 2005",20,85,85
+Edan,Beauty And The Beat,"March 29, 2005",13,85,87
+The New Pornographers,Twin Cinema,"August 23, 2005",34,85,88
+The Go-Betweens,Oceans Apart,"May 3, 2005",18,85,80
+Eels,Blinking Lights And Other Revelations,"April 26, 2005",17,85,88
+Buck 65,This Right Here Is Buck 65,"January 25, 2005",4,85,85
+Richard Hawley,Cole's Corner,"September 6, 2005",36,85,89
+Vashti Bunyan,Lookaftering,"October 25, 2005",43,85,81
+The Books,Lost And Safe,"April 5, 2005",14,84,86
+Spoon,Gimme Fiction,"May 10, 2005",19,84,88
+Animal Collective,Feels,"October 18, 2005",42,84,88
+Sigur Rós,Takk...,"September 13, 2005",37,84,88
+Fiona Apple,Extraordinary Machine,"October 4, 2005",40,84,87
+The Earlies,These Were The Earlies,"October 25, 2005",43,84,85
+Jamie Lidell,Multiply,"June 28, 2005",26,84,74
+Clap Your Hands Say Yeah,Clap Your Hands Say Yeah,"June 28, 2005",26,84,85
+Portastatic,Bright Ideas,"August 23, 2005",34,83,83
+Six Organs of Admittance,School Of The Flower,"January 25, 2005",4,83,80
+Wolf Parade,Apologies To The Queen Mary,"September 27, 2005",39,83,88
+Blueprint,1988,"March 29, 2005",13,83,80
+Common,Be,"May 24, 2005",21,83,87
+Franz Ferdinand,You Could Have It So Much Better,"October 4, 2005",40,83,83
+The Mountain Goats,The Sunset Tree,"April 26, 2005",17,83,88
+Kano,Home Sweet Home,"June 27, 2005",26,82,85
+Broken Social Scene,Broken Social Scene,"October 4, 2005",40,82,84
+Iron & Wine,Woman King [EP],"February 22, 2005",8,82,86
+Gorillaz,Demon Days,"May 24, 2005",21,82,88
+Low,The Great Destroyer,"January 25, 2005",4,82,82
+Nickel Creek,Why Should The Fire Die?,"August 9, 2005",32,82,85
+Bloc Party,Silent Alarm,"March 22, 2005",12,82,89
+The National,Alligator,"April 12, 2005",15,82,88
+Xiu Xiu,La Foret,"July 12, 2005",28,82,83
+Odd Nosdam,Burner,"June 14, 2005",24,81,88
+Kate Bush,Aerial,"November 8, 2005",45,81,89
+The White Stripes,Get Behind Me Satan,"June 7, 2005",23,81,83
+DangerDoom,The Mouse And The Mask,"October 11, 2005",41,81,86
+The Decemberists,Picaresque,"March 22, 2005",12,81,85
+Akron/Family & Angels Of Light,Akron/Family & Angels Of Light,"November 8, 2005",45,81,71
+Archer Prewitt,Wilderness,"January 25, 2005",4,81,85
+Bruce Springsteen,Devils & Dust,"April 26, 2005",17,81,85
+Stars,Set Yourself On Fire,"March 8, 2005",10,81,88
+Neil Diamond,12 Songs,"November 8, 2005",45,81,83
+Caribou,The Milk Of Human Kindness,"May 3, 2005",18,81,83
+OOIOO,Gold And Green,"September 13, 2005",37,81,82
+Engineers,Engineers,"June 21, 2005",25,81,86
+Silver Jews,Tanglewood Numbers,"October 18, 2005",42,81,88
+Annie,Anniemal,"June 7, 2005",23,81,86
+Wilderness,Wilderness,"July 5, 2005",27,81,75
+The Juan MacLean,Less Than Human,"August 9, 2005",32,81,72
+The Perceptionists,Black Dialogue,"March 22, 2005",12,81,75
+Akron/Family,Akron/Family,"March 22, 2005",12,80,87
+Laura Cantrell,Humming By The Flowered Vine,"June 21, 2005",25,80,85
+Audion,Suckfish,"October 4, 2005",40,80,0
+Why?,Sanddollars [EP],"May 17, 2005",20,80,0
+Of Montreal,The Sunlandic Twins,"April 12, 2005",15,80,88
+"Bonnie ""Prince"" Billy and Matt Sweeney",Superwolf,"January 25, 2005",4,80,84
+Laura Veirs,Year Of Meteors,"August 23, 2005",34,80,81
+Martha Wainwright,Martha Wainwright,"April 12, 2005",15,80,88
+Patrick Wolf,Wind In The Wires,"March 15, 2005",11,80,88
+Oneida,The Wedding,"May 3, 2005",18,80,73
+The Lucksmiths,Warmer Corners,"April 4, 2005",14,80,85
+Pajo,Pajo,"June 28, 2005",26,80,87
+13 & God,13 & God,"May 3, 2005",18,80,79
+Roots Manuva,Awfully Deep,"April 19, 2005",16,80,85
+The Fall,Fall Heads Roll,"October 4, 2005",40,80,83
+Angels Of Light,The Angels Of Light Sing 'Other People',"March 22, 2005",12,80,85
+The Magic Numbers,The Magic Numbers,"October 4, 2005",40,80,76
+Chad VanGaalen,Infiniheart,"August 23, 2005",34,80,85
+The Constantines,Tournament Of Hearts,"October 11, 2005",41,80,88
+Blackalicious,The Craft,"September 27, 2005",39,80,78
+Josh Rouse,Nashville,"February 22, 2005",8,80,87
+Madonna,Confessions On A Dance Floor,"November 15, 2005",46,80,89
+Hood,Outside Closer,"February 8, 2005",6,80,86
+Quasimoto,The Further Adventures Of Lord Quas,"May 3, 2005",18,79,86
+Micah P. Hinson,Micah P. Hinson And The Gospel Of Progress,"April 12, 2005",15,79,85
+Devendra Banhart,Cripple Crow,"September 13, 2005",37,79,80
+Boards of Canada,The Campfire Headphase,"October 18, 2005",42,79,87
+Fannypack,See You Next Tuesday,"May 10, 2005",19,79,0
+Teenage Fanclub,Man-Made,"June 7, 2005",23,79,85
+Jens Lekman,Oh You're So Silent Jens,"November 22, 2005",47,79,81
+Brendan Benson,The Alternative To Love,"March 22, 2005",12,79,75
+The Clientele,Strange Geometry,"October 11, 2005",41,79,87
+Old 97's,Alive And Wired,"September 20, 2005",38,79,84
+Shakira,Fijacion Oral Vol. 1,"June 7, 2005",23,79,89
+Mogwai,Government Commissions: BBC Sessions 1996-2003,"February 22, 2005",8,79,86
+Rosebuds,Birds Make Good Neighbors,"September 13, 2005",37,79,84
+Dirty Three,Cinder,"October 11, 2005",41,79,80
+The Mendoza Line,Full Of Light And Full Of Fire,"November 22, 2005",47,79,88
+North Mississippi Allstars,Electric Blue Watermelon,"September 6, 2005",36,79,75
+Magnolia Electric Co.,Trials & Errors,"January 18, 2005",3,79,78
+Fog,10th Avenue Freakout,"March 22, 2005",12,78,88
+M. Ward,Transistor Radio,"February 22, 2005",8,78,89
+Love As Laughter,Laughter's Fifth,"April 26, 2005",17,78,84
+Alkaline Trio,Crimson,"May 24, 2005",21,78,81
+Ladytron,Witching Hour,"October 4, 2005",40,78,76
+Stephen Malkmus,Face The Truth,"May 24, 2005",21,78,85
+Maria Taylor,11:11,"May 24, 2005",21,78,89
+Beck,Guero,"March 29, 2005",13,78,85
+Clem Snide,End Of Love,"February 22, 2005",8,78,88
+System Of A Down,Hypnotize,"November 22, 2005",47,78,86
+Calla,Collisions,"September 27, 2005",39,78,88
+Robert Plant,Mighty Rearranger,"May 10, 2005",19,78,86
+Busdriver,Fear Of A Black Tangent,"February 22, 2005",8,78,76
+Depeche Mode,Playing The Angel,"October 18, 2005",42,78,88
+Pernice Brothers,Discover A Lovelier You,"June 14, 2005",24,78,88
+Queens of the Stone Age,Lullabies To Paralyze,"March 22, 2005",12,78,86
+Sam Prekop,Who's Your New Professor,"March 8, 2005",10,78,85
+The Double,Loose In The Air,"September 13, 2005",37,78,0
+Ash,Meltdown,"March 8, 2005",10,78,83
+Kaiser Chiefs,Employment,"March 15, 2005",11,78,78
+Paul McCartney,Chaos And Creation In The Backyard,"September 13, 2005",37,78,89
+Oranges Band,The World And Everything In It,"June 14, 2005",24,78,0
+The Kills,No Wow,"March 8, 2005",10,78,82
+Sage Francis,A Healthy Distrust,"February 8, 2005",6,78,86
+The Robot Ate Me,Carousel Waltz,"May 10, 2005",19,78,78
+Mice Parade,Bem-Vinda Vontade,"May 3, 2005",18,78,88
+Super Furry Animals,Love Kraft,"September 13, 2005",37,77,86
+Jennifer Gentle,Valende,"January 25, 2005",4,77,82
+Sons and Daughters,The Repulsion Box,"August 9, 2005",32,77,88
+The Gris Gris,For The Season,"November 8, 2005",45,77,83
+The Ponys,Celebration Castle,"May 3, 2005",18,77,78
+Celebration,Celebration,"October 11, 2005",41,77,0
+Four Tet,Everything Ecstatic,"May 31, 2005",22,77,77
+Mary Timony,Ex Hex,"April 19, 2005",16,77,80
+Rodney Crowell,The Outsider,"August 16, 2005",33,77,80
+Blind Boys Of Alabama,Atom Bomb,"March 15, 2005",11,77,0
+The Wedding Present,Take Fountain,"February 15, 2005",7,77,85
+The Like,Are You Thinking What I'm Thinking?,"September 13, 2005",37,77,86
+Iron & Wine + Calexico,In The Reins [EP],"September 13, 2005",37,77,84
+Atmosphere,You Can't Imagine How Much Fun We're Having,"October 4, 2005",40,77,87
+Tangiers,The Family Myth,"September 20, 2005",38,77,68
+Graham Coxon,Happiness In Magazines,"January 25, 2005",4,77,86
+Shelby Lynne,Suit Yourself,"May 24, 2005",21,76,84
+Mary J. Blige,The Breakthrough,"December 20, 2005",51,76,88
+Clor,Clor,"July 25, 2005",30,76,87
+Damon & Naomi,The Earth Is Blue,"February 22, 2005",8,76,0
+Vic Chesnutt,Ghetto Bells,"March 22, 2005",12,76,0
+Galaxie 500,Peel Sessions,"November 22, 2005",47,76,0
+Al Green,Everything's OK,"March 15, 2005",11,76,88
+Alasdair Roberts,No Earthly Man,"March 22, 2005",12,76,74
+M83,Before The Dawn Heals Us,"January 25, 2005",4,76,88
+Why?,Elephant Eyelash,"October 4, 2005",40,76,87
+Smog,A River Ain't Too Much To Love,"May 31, 2005",22,76,85
+Mercury Rev,The Secret Migration,"May 17, 2005",20,76,78
+Ying Yang Twins,USA (United State Of Atlanta),"June 28, 2005",26,76,65
+Marianne Faithfull,Before The Poison,"January 25, 2005",4,76,83
+Mu,Out Of Breach (Manchester's Revenge),"February 8, 2005",6,76,78
+Out Hud,Let Us Never Speak Of It Again,"March 22, 2005",12,76,87
+Deerhoof,The Runners Four,"October 11, 2005",41,76,76
+50 Foot Wave,Golden Ocean,"March 8, 2005",10,76,85
+Dwight Yoakam,Blame The Vain,"June 14, 2005",24,76,83
+Minotaur Shock,Maritime,"August 9, 2005",32,76,81
+Broadcast,Tender Buttons,"September 20, 2005",38,76,88
+British Sea Power,Open Season,"April 5, 2005",14,76,86
+Fantômas,Suspended Animation,"April 5, 2005",14,76,81
+Keyshia Cole,The Way It Is,"June 21, 2005",25,75,62
+Jason Forrest,Shamelessly Exciting,"October 11, 2005",41,75,0
+Brakes [aka brakesbrakesbrakes],Give Blood,"September 13, 2005",37,75,81
+Richard Thompson,Front Parlour Ballads,"August 9, 2005",32,75,77
+The Mars Volta,Frances The Mute,"March 1, 2005",9,75,84
+Crooked Fingers,Dignity And Shame,"February 22, 2005",8,75,81
+Aqueduct,I Sold Gold,"January 25, 2005",4,75,80
+The Russian Futurists,Our Thickness,"May 3, 2005",18,75,77
+Maxïmo Park,A Certain Trigger,"May 31, 2005",22,75,87
+Clue To Kalo,"One Way, It's Every Way","September 20, 2005",38,75,0
+Nick Cave & the Bad Seeds,B-Sides & Rarities,"March 22, 2005",12,75,86
+Boom Bip,Blue Eyed In The Red Room,"March 8, 2005",10,75,0
+Shipping News,Flies The Fields,"March 22, 2005",12,75,0
+Minus the Bear,Menos el Oso,"August 23, 2005",34,74,87
+The A-Frames,Black Forest,"March 22, 2005",12,74,0
+Lake Trout,"Not Them, You","September 13, 2005",37,74,0
+Paul Weller,As Is Now,"October 11, 2005",41,74,84
+The Raveonettes,Pretty In Black,"May 3, 2005",18,74,84
+Shakira,Oral Fixation Vol. 2,"November 29, 2005",48,74,86
+Headphones,Headphones,"May 10, 2005",19,74,79
+Holopaw,Quit +/or Fight,"August 9, 2005",32,74,0
+The Standard,Albatross,"October 4, 2005",40,74,83
+Missy Elliott,The Cookbook,"July 5, 2005",27,74,85
+Michael Penn,"Mr. Hollywood, Jr. 1947","August 2, 2005",31,74,85
+Morrissey,Live At Earls Court,"March 29, 2005",13,74,86
+Bell Orchestre,Recording A Tape The Colour Of The Light,"November 15, 2005",46,74,81
+Van Morrison,Magic Time,"May 17, 2005",20,74,83
+Magnolia Electric Co.,What Comes After The Blues,"April 5, 2005",14,74,82
+Kings of Leon,Aha Shake Heartbreak,"February 22, 2005",8,74,83
+The Tears,Here Come The Tears,"June 6, 2005",23,74,82
+Ed Harcourt,Strangers,"February 1, 2005",5,74,78
+Bright Eyes,Motion Sickness [Live],"November 15, 2005",46,74,73
+Damien Jurado,On My Way To Absence,"April 5, 2005",14,74,0
+Tom Vek,We Have Sound,"October 25, 2005",43,74,80
+Matthew Herbert,Plat du Jour,"September 13, 2005",37,73,88
+Mike Ladd,Negrophilia: The Album,"February 8, 2005",6,73,72
+Loudon Wainwright III,Here Come The Choppers,"April 19, 2005",16,73,67
+Supergrass,Road To Rouen,"September 27, 2005",39,73,87
+Beanie Sigel,The B.Coming,"March 29, 2005",13,73,83
+A Hawk and a Hacksaw,Darkness At Noon,"April 5, 2005",14,73,0
+Tosca,j.a.c.,"May 31, 2005",22,73,0
+Coheed and Cambria,"Good Apollo, I'm Burning Star IV, Volume One: From Fear Through The Eyes Of Madness","September 20, 2005",38,73,83
+Ivy,In The Clear,"March 1, 2005",9,73,81
+Lucinda Williams,Live @ The Fillmore,"May 10, 2005",19,73,76
+Ani DiFranco,Knuckle Down,"January 25, 2005",4,73,86
+Neil Young,Prairie Wind,"September 27, 2005",39,73,79
+Tarwater,The Needle Was Traveling,"March 22, 2005",12,73,0
+The Chris Stamey Experience,A Question Of Temperature,"January 25, 2005",4,73,0
+The Coral,The Invisible Invasion,"August 30, 2005",35,73,81
+Prefuse 73,Surrounded By Silence,"March 22, 2005",12,73,78
+The Wallflowers,"Rebel, Sweetheart","May 24, 2005",21,73,83
+Kathleen Edwards,Back To Me,"March 1, 2005",9,73,86
+Nobody,And Everything Else,"May 17, 2005",20,73,0
+The Rolling Stones,A Bigger Bang,"September 6, 2005",36,73,74
+Boredoms,Seadrum/House Of Sun,"May 10, 2005",19,73,0
+Nada Surf,The Weight Is A Gift,"September 13, 2005",37,73,79
+"Bonnie ""Prince"" Billy",Summer In The Southeast,"November 15, 2005",46,73,78
+Numbers,We're Animals,"September 13, 2005",37,73,0
+The Bees [Band of Bees],Free The Bees,"June 28, 2005",26,73,88
+Fruit Bats,Spelled In Bones,"July 26, 2005",30,73,71
+Architecture in Helsinki,In Case We Die,"April 12, 2005",15,72,84
+Ellen Allien,Thrills,"June 7, 2005",23,72,0
+Thee Silver Mt. Zion Memorial Orchestra & Tra-La-La Band,Horses In The Sky,"April 5, 2005",14,72,88
+Doves,Some Cities,"March 1, 2005",9,72,82
+Rogue Wave,Descended Like Vultures,"October 25, 2005",43,72,83
+Kid 606,Resilience,"July 25, 2005",30,72,0
+The Capitol Years,Let Them Drink,"March 8, 2005",10,72,86
+Lemon Jelly,'64 - '95,"January 25, 2005",4,72,83
+Regina Spektor,Soviet Kitsch,"March 1, 2005",9,72,86
+Dead Meadow,Feathers,"February 22, 2005",8,72,83
+John Vanderslice,Pixel Revolt,"August 23, 2005",34,72,67
+The Evens,The Evens,"March 15, 2005",11,72,85
+The Game,The Documentary,"January 18, 2005",3,72,86
+Faith Evans,The First Lady,"April 5, 2005",14,72,79
+Ryan Adams,Jacksonville City Nights,"September 27, 2005",39,72,80
+Son Volt,Okemah And The Melody Of Riot,"July 12, 2005",28,72,89
+The Frames,Burn The Maps,"February 8, 2005",6,72,81
+Matt Pond,Several Arrows Later,"October 11, 2005",41,72,86
+Coldplay,X&Y,"June 7, 2005",23,72,79
+Living Things,Ahead Of The Lions,"October 4, 2005",40,72,71
+Gang of Four,Return The Gift,"October 11, 2005",41,72,79
+American Analog Set,Set Free,"September 20, 2005",38,72,84
+L'Altra,Different Days,"January 25, 2005",4,71,0
+Ida,Heart Like A River,"February 22, 2005",8,71,0
+Frank Black,Honeycomb,"July 19, 2005",29,71,84
+The Chemical Brothers,Push The Button,"January 25, 2005",4,71,81
+Brian Eno,Another Day On Earth,"June 14, 2005",24,71,73
+Tracy Chapman,Where You Live,"September 13, 2005",37,71,82
+Enon,Lost Marbles And Exploded Evidence,"February 22, 2005",8,71,0
+Tenement Halls,Knitting Needles And Bicycle Bells,"August 23, 2005",34,71,0
+David Banner,Certified,"September 20, 2005",38,71,0
+Tristeza,A Colores,"November 22, 2005",47,71,0
+Mike Doughty,Haughty Melodic,"May 3, 2005",18,71,71
+Mia Doi Todd,Manzanita,"February 8, 2005",6,71,0
+Mick Harvey,One Man's Treasure,"October 18, 2005",42,71,0
+A Gun Called Tension,A Gun Called Tension,"February 22, 2005",8,71,0
+Hot Hot Heat,Elevator,"April 5, 2005",14,71,79
+Scout Niblett,Kidnapped By Neptune,"May 10, 2005",19,71,0
+Buck 65,Secret House Against The World,"August 1, 2005",31,71,76
+The Greenhornes,Sewed Soles,"November 29, 2005",48,71,0
+Metric,Live It Out,"October 4, 2005",40,71,82
+The Residents,Animal Lover,"April 5, 2005",14,71,85
+Nine Inch Nails,With Teeth,"May 3, 2005",18,71,87
+Prefuse 73,Reads The Books [EP],"July 12, 2005",28,71,74
+Black Dice,Broken Ear Record,"September 6, 2005",36,70,81
+Thievery Corporation,The Cosmic Game,"February 22, 2005",8,70,86
+Deana Carter,The Story Of My Life,"March 8, 2005",10,70,0
+Trey Anastasio,Shine,"November 1, 2005",44,70,74
+Fischerspooner,Odyssey,"April 5, 2005",14,70,86
+John Parish,Once Upon A Little Time,"September 13, 2005",37,70,0
+John Hiatt,Master Of Disaster,"June 21, 2005",25,70,75
+The Nein,Wrath Of Circuits,"May 17, 2005",20,70,0
+Solomon Burke,Make Do With What You Got,"March 1, 2005",9,70,0
+Foo Fighters,In Your Honor,"June 14, 2005",24,70,81
+Fountains of Wayne,Out-Of-State Plates,"June 28, 2005",26,70,83
+Black Rebel Motorcycle Club,Howl,"August 23, 2005",34,70,79
+The Joggers,With A Cape And A Cane,"September 27, 2005",39,70,79
+Electrelane,Axes,"May 10, 2005",19,70,81
+Amerie,Touch,"April 26, 2005",17,70,82
+Gretchen Wilson,All Jacked Up,"September 27, 2005",39,70,61
+The Zincs,Dimmer.,"April 12, 2005",15,70,0
+Aimee Mann,The Forgotten Arm,"May 3, 2005",18,70,85
+Mike Ladd,Father Divine,"November 15, 2005",46,69,0
+Twista,The Day After,"October 4, 2005",40,69,71
+Sinéad O'Connor,Throw Down Your Arms,"October 4, 2005",40,69,85
+Gruff Rhys,Yr Atal Genhedlaeth,"March 15, 2005",11,69,85
+Kinski,Alpine Static,"July 12, 2005",28,69,0
+Weird War,Illuminated By The Light,"April 19, 2005",16,69,0
+Autechre,Untilted,"April 19, 2005",16,69,84
+Amon Tobin,Chaos Theory: Splinter Cell 3 [Soundtrack],"January 25, 2005",4,69,85
+Little Barrie,We Are Little Barrie,"June 28, 2005",26,69,88
+Dressy Bessy,Electrified,"June 14, 2005",24,69,66
+David Gray,Life In Slow Motion,"September 13, 2005",37,69,81
+Ben Folds,Songs For Silverman,"April 26, 2005",17,69,84
+Early Man,Closing In,"October 11, 2005",41,69,80
+Grandaddy,Excerpts From The Diary Of Todd Zilla [EP],"September 27, 2005",39,69,84
+Ryan Adams,Cold Roses,"May 3, 2005",18,69,88
+Mando Diao,Hurricane Bar,"March 8, 2005",10,69,84
+Inara George,All Rise,"January 25, 2005",4,69,83
+Colder,Heat,"October 25, 2005",43,69,85
+Ryan Adams,29,"December 20, 2005",51,69,87
+Aesop Rock,"Fast Cars, Danger, Fire And Knives [EP]","February 22, 2005",8,69,87
+Télépopmusik,Angel Milk,"June 21, 2005",25,68,83
+Bob Mould,Body Of Song,"July 26, 2005",30,68,78
+Toby Keith,Honkytonk University,"May 17, 2005",20,68,37
+Hal,Hal,"May 10, 2005",19,68,77
+The House of Love,Days Run Away,"February 28, 2005",9,68,77
+The Soundtrack of Our Lives,Origin Vol. 1,"March 15, 2005",11,68,83
+The Darkness,One Way Ticket To Hell... And Back,"November 29, 2005",48,68,75
+Judas Priest,Angel Of Retribution,"March 1, 2005",9,68,88
+I Am Kloot,Gods And Monsters,"August 23, 2005",34,68,68
+Talib Kweli,Right About Now,"November 22, 2005",47,68,82
+Guided by Voices,Suitcase 2: American Superdream Wow,"November 8, 2005",45,68,0
+The Most Serene Republic,Underwater Cinematographer,"July 12, 2005",28,68,88
+Coachwhips,Peanut Butter And Jelly Live At The Ginger Minge,"January 25, 2005",4,68,0
+Röyksopp,The Understanding,"July 12, 2005",28,68,80
+Marjorie Fair,Self Help Serenade,"July 19, 2005",29,68,80
+Lali Puna,"I Thought I Was Over That: Rare, Remixed And B-Sides","June 28, 2005",26,67,0
+...And You Will Know Us by the Trail of Dead,World's Apart,"January 25, 2005",4,67,80
+CocoRosie,Noah's Ark,"September 13, 2005",37,67,77
+Björk,Drawing Restraint 9 OST,"August 23, 2005",34,67,74
+Nikka Costa,can'tneverdidnothin',"May 24, 2005",21,67,77
+Radar Bros.,The Fallen Leaf Pages,"March 22, 2005",12,67,86
+Audioslave,Out Of Exile,"May 24, 2005",21,67,77
+Hot Chip,Coming On Strong,"November 29, 2005",48,67,81
+Sean Paul,The Trinity,"September 27, 2005",39,67,76
+The Posies,Every Kind Of Light,"June 28, 2005",26,66,83
+John Doe,Forever Hasn't Happened Yet,"March 22, 2005",12,66,84
+Daedelus,Exquisite Corpse,"March 15, 2005",11,66,0
+Stevie Wonder,A Time To Love,"October 18, 2005",42,66,78
+50 Cent,The Massacre,"March 3, 2005",9,66,54
+Beck,Guerolito,"December 13, 2005",50,66,74
+The Bravery,The Bravery,"March 29, 2005",13,66,72
+Lil' Kim,The Naked Truth,"September 27, 2005",39,66,74
+Idlewild,Warnings/Promises,"August 16, 2005",33,66,77
+Eisley,Room Noises,"February 8, 2005",6,66,87
+Echo & the Bunnymen,Siberia,"September 20, 2005",38,66,87
+Bright Eyes,Digital Ash In A Digital Urn,"January 25, 2005",4,66,78
+Broken Spindles,Inside/Absent,"August 23, 2005",34,66,0
+Death Cab for Cutie,Plans,"August 30, 2005",35,66,78
+Daniel Lanois,Belladonna,"July 12, 2005",28,66,83
+Kasabian,Kasabian,"March 8, 2005",10,65,82
+Alicia Keys,Unplugged,"October 11, 2005",41,65,88
+Black Mountain,Black Mountain,"January 18, 2005",3,65,77
+Momus,Otto Spooky,"April 19, 2005",16,65,0
+Tori Amos,The Beekeeper,"February 22, 2005",8,65,83
+dios (malos),dios (malos),"October 11, 2005",41,65,82
+The Perishers,Let There Be Morning,"April 12, 2005",15,65,80
+Laurent Garnier,The Cloud Making Machine,"February 22, 2005",8,65,83
+Adult.,Gimmie Trouble,"October 11, 2005",41,65,88
+Sun Kil Moon,Tiny Cities,"November 1, 2005",44,64,73
+Gomez,Out West,"June 7, 2005",23,64,78
+Robbie Williams,Intensive Care,"October 24, 2005",43,64,85
+Robbers On High Street,Tree City,"February 22, 2005",8,64,80
+OK Go,Oh No,"August 30, 2005",35,64,85
+Adult.,D.U.M.E. [EP],"April 12, 2005",15,64,0
+Korn,See You On The Other Side,"December 6, 2005",49,64,76
+Morcheeba,The Antidote,"September 27, 2005",39,64,76
+Hella,Church Gone Wild / Chirpin Hard,"March 22, 2005",12,64,87
+Oasis,Don't Believe The Truth,"May 31, 2005",22,64,78
+Mariah Carey,The Emancipation Of Mimi,"April 12, 2005",15,64,83
+Madness,"The Dangermen Sessions, Vol. 1","August 16, 2005",33,63,80
+Longwave,There's A Fire,"June 28, 2005",26,63,74
+Stereo Total,Do The Bambi,"January 25, 2005",4,63,0
+Lou Barlow,Emoh,"January 25, 2005",4,63,84
+New Order,Waiting For The Sirens' Call,"April 26, 2005",17,63,79
+Juliana Hatfield,Made In China,"August 9, 2005",32,63,81
+John Cale,Black Acetate,"October 18, 2005",42,63,83
+Sheryl Crow,Wildflower,"September 27, 2005",39,63,81
+Death in Vegas,Satan's Circus,"May 24, 2005",21,63,76
+Dave Matthews Band,Stand Up,"May 10, 2005",19,63,66
+Kenny Chesney,Be As You Are (Songs From An Old Blue Chair),"January 25, 2005",4,63,84
+Monade,A Few Steps More,"March 8, 2005",10,63,0
+The Stands,All Years Leaving,"January 25, 2005",4,63,84
+Caesars,Paper Tigers,"April 26, 2005",17,63,69
+The Fiery Furnaces,Rehearsing My Choir,"October 25, 2005",43,63,79
+Sole,Live From Rome,"March 1, 2005",9,62,0
+T. Raumschmiere,Blitzkrieg Pop,"August 23, 2005",34,62,0
+Windsor For The Derby,Giving Up The Ghost,"August 16, 2005",33,62,78
+Rosie Thomas,If Songs Could Be Held,"September 13, 2005",37,62,0
+Turin Brakes,JackInABox,"June 7, 2005",23,62,74
+Louis XIV,The Best Little Secrets Are Kept,"March 22, 2005",12,62,64
+The Beautiful New Born Children,Hey People!,"October 18, 2005",42,62,0
+22-20s,22-20s,"April 19, 2005",16,61,79
+The Warlocks,Surgery,"August 23, 2005",34,61,58
+Big Star,In Space,"September 27, 2005",39,61,76
+Cursive,The Difference Between Houses And Homes: Lost Songs And Loose Ends 1995-2001,"August 9, 2005",32,61,67
+Trembling Blue Stars,The Seven Autumn Flowers,"January 11, 2005",2,61,0
+Ian Brown,Solarized,"February 22, 2005",8,61,84
+Shaggy,Clothes Drop,"September 20, 2005",38,61,45
+The Departure,Dirty Words,"June 13, 2005",24,61,63
+Jamiroquai,Dynamite,"September 20, 2005",38,61,83
+REV RUN,Distortion,"October 18, 2005",42,61,86
+Embrace,Out Of Nothing,"June 14, 2005",24,61,75
+Orenda Fink,Invisible Ones,"August 23, 2005",34,61,78
+Lisa Marie Presley,Now What,"April 5, 2005",14,60,51
+R. Kelly,TP.3 Reloaded,"July 5, 2005",27,60,73
+Her Space Holiday,The Past Presents The Future,"September 27, 2005",39,60,82
+Tweet,It's Me Again,"March 22, 2005",12,60,88
+Ms. Dynamite,Judgement Days,"October 3, 2005",40,59,70
+Cowboy Junkies,Early 21st Century Blues,"August 16, 2005",33,59,0
+Ninja High School,Young Adults Against Suicide,"October 18, 2005",42,59,74
+Disturbed,Ten Thousand Fists,"September 20, 2005",38,59,85
+Billy Corgan,TheFutureEmbrace,"June 21, 2005",25,59,77
+Jack Johnson,In Between Dreams,"March 1, 2005",9,58,83
+The Mars Volta,Scab Dates,"November 8, 2005",45,58,72
+stellastarr*,Harmonies For The Haunted,"September 13, 2005",37,58,82
+Ocean Colour Scene,A Hyperactive Workout For The Flying Squad,"March 29, 2005",13,58,84
+Jason Mraz,Mr. A-Z,"July 26, 2005",30,58,76
+Esthero,Wikked Lil' Grrrls,"June 28, 2005",26,57,85
+Stereophonics,Language. Sex. Violence. Other?,"March 29, 2005",13,57,85
+Statistics,Often Lie,"July 12, 2005",28,57,0
+Kenny Chesney,The Road And The Radio,"November 8, 2005",45,57,74
+The Dandy Warhols,Odditorium Or Warlords Of Mars,"September 13, 2005",37,57,64
+Daft Punk,Human After All,"March 15, 2005",11,57,74
+Rob Thomas,Something To Be,"April 19, 2005",16,57,77
+Ben Lee,Awake Is The New Sleep,"February 22, 2005",8,57,76
+Faith Hill,Fireflies,"August 2, 2005",31,57,75
+Garbage,Bleed Like Me,"April 12, 2005",15,56,83
+Transplants,Haunted Cities,"June 21, 2005",25,55,81
+Greg Dulli,Amber Headlights,"September 6, 2005",36,55,75
+Enya,Amarantine,"November 22, 2005",47,55,78
+Liz Phair,Somebody's Miracle,"October 4, 2005",40,54,63
+Erasure,Nightbird,"January 25, 2005",4,53,83
+T.A.T.U,Dangerous And Moving,"October 11, 2005",41,53,84
+Weezer,Make Believe,"May 10, 2005",19,52,61
+Eric Clapton,Back Home,"August 30, 2005",35,52,46
+Billy Idol,Devil's Playground,"March 22, 2005",12,52,84
+Jamie Foxx,Unpredictable,"December 20, 2005",51,52,66
+H.I.M.,Dark Light,"September 27, 2005",39,52,79
+Jennifer Lopez,Rebirth,"March 1, 2005",9,52,58
+The Others,The Others,"January 31, 2005",5,52,49
+Babyface,Grown & Sexy,"July 26, 2005",30,51,73
+Mark Eitzel,Candy Ass,"October 4, 2005",40,51,0
+311,Don't Tread On Me,"August 16, 2005",33,51,61
+Lindsay Lohan,A Little More Personal (Raw),"December 6, 2005",49,50,71
+Will Smith,Lost And Found,"March 29, 2005",13,50,77
+The Ordinary Boys,Brassbound,"June 20, 2005",25,50,80
+Chicks On Speed,Press The Spacebar,"March 22, 2005",12,50,50
+Adam Green,Gemstones,"February 22, 2005",8,49,74
+The Black Eyed Peas,Monkey Business,"June 7, 2005",23,48,61
+Staind,Chapter V,"August 9, 2005",32,48,61
+Moby,Hotel,"March 22, 2005",12,47,56
+Athlete,Tourist,"May 10, 2005",19,46,70
+Santana,All That I Am,"November 1, 2005",44,45,49
+Bizarre,Hannicap Circus,"June 28, 2005",26,44,55
+Ashlee Simpson,I Am Me,"October 18, 2005",42,43,52
+Nickelback,All The Right Reasons,"October 4, 2005",40,41,42
+Backstreet Boys,Never Gone,"June 14, 2005",24,40,60
+Alanis Morissette,Jagged Little Pill Acoustic,"July 26, 2005",30,40,61

@@ -1,0 +1,501 @@
+artist,album,date,week_num,meta_score,user_score
+Kendrick Lamar,DAMN.,"April 14, 2017",15,95,84
+Mount Eerie,A Crow Looked at Me,"March 24, 2017",12,93,80
+Lorde,Melodrama,"June 16, 2017",24,91,89
+Converge,The Dusk in Us,"November 3, 2017",44,89,76
+Creeper,"Eternity, In Your Arms","March 24, 2017",12,89,77
+Jlin,Black Origami,"May 19, 2017",20,89,71
+Vince Staples,Big Fish Theory,"June 23, 2017",25,89,83
+Valerie June,The  Order of Time,"March 10, 2017",10,89,79
+St. Vincent,Masseduction,"October 13, 2017",41,88,88
+Brand New,Science Fiction,"August 19, 2017",33,88,84
+Fever Ray,Plunge,"October 27, 2017",43,87,77
+Rapsody,Laila’s Wisdom,"September 22, 2017",38,87,82
+Oxbow,The Thin Black Duke,"May 5, 2017",18,87,79
+Charly Bliss,Guppy,"April 21, 2017",16,87,79
+Arca,Arca,"April 7, 2017",14,87,82
+Circuit des Yeux,Reaching for Indigo,"October 20, 2017",42,87,82
+The Horrors,V,"September 22, 2017",38,87,82
+SZA,CTRL,"June 9, 2017",23,86,88
+Power Trip,Nightmare Logic,"February 24, 2017",8,86,77
+Vijay Iyer,Far from Over,"August 25, 2017",34,86,0
+The Replacements,For Sale: Live at Maxwell's 1986,"October 6, 2017",40,86,80
+Four Tet,New Energy,"September 29, 2017",39,86,82
+Gas,Narkopop,"April 21, 2017",16,86,78
+Sampha,Process,"February 3, 2017",5,86,81
+Magnetic Fields,50 Song Memoir,"March 10, 2017",10,86,76
+Paul Weller,A Kind Revolution,"May 12, 2017",19,86,78
+Tinariwen,Elwan,"February 10, 2017",6,86,78
+Rodney Crowell,Close Ties,"March 31, 2017",13,86,79
+Sharon Jones & the Dap-Kings,Soul of a Woman,"November 17, 2017",46,86,82
+LCD Soundsystem,American Dream,"September 1, 2017",35,86,84
+PVRIS,"All We Know of Heaven, All We Need of Hell","August 25, 2017",34,86,82
+Algiers,The Underside of Power,"June 23, 2017",25,86,79
+Bedouine,Bedouine,"June 23, 2017",25,85,71
+Protomartyr,Relatives in Descent,"September 29, 2017",39,85,80
+The National,Sleep Well Beast,"September 8, 2017",36,85,85
+The xx,I See You,"January 13, 2017",2,85,81
+Moses Sumney,Aromanticism,"September 22, 2017",38,85,82
+The Moonlandingz,Interplanetary Class Classics,"March 24, 2017",12,85,70
+Laura Marling,Semper Femina,"March 10, 2017",10,85,80
+The Weather Station,The Weather Station,"October 6, 2017",40,85,67
+Father John Misty,Pure Comedy,"April 7, 2017",14,85,79
+Ryuichi Sakamoto,async,"April 28, 2017",17,85,77
+Pwr Bttm,Pageant,"May 12, 2017",19,85,55
+Young Thug,Beautiful Thugger Girls,"June 16, 2017",24,84,78
+Aimee Mann,Mental Illness,"March 31, 2017",13,84,78
+Godflesh,Post Self,"November 17, 2017",46,84,0
+Karine Polwart,A Pocket of Wind Resistance,"November 17, 2017",46,84,0
+"Tyler, The Creator",Flower Boy,"July 21, 2017",29,84,88
+Seamus Fogarty,The Curious Hand,"October 6, 2017",40,84,0
+Alan Vega,It,"July 14, 2017",28,84,0
+Laurel Halo,Dust,"June 23, 2017",25,84,77
+Perfume Genius,No Shape,"May 5, 2017",18,84,84
+Juana Molina,Halo,"May 5, 2017",18,84,79
+Loyle Carner,Yesterday's Gone,"January 20, 2017",3,84,84
+Robert Plant,Carry Fire,"October 13, 2017",41,84,81
+J Hus,Common Sense,"May 12, 2017",19,84,82
+Juliana Hatfield,Pussycat,"April 28, 2017",17,84,70
+Nadia Reid,Preservation,"March 3, 2017",9,84,80
+William Basinski,A Shadow in Time,"January 20, 2017",3,84,75
+Kelela,Take Me Apart,"October 6, 2017",40,84,83
+Wiley,Godfather,"January 13, 2017",2,84,81
+Vagabon,Infinite Worlds,"February 24, 2017",8,84,79
+Songhoy Blues,Resistance,"June 16, 2017",24,84,70
+Jane Weaver,Modern Kosmology,"May 19, 2017",20,84,75
+Pumarosa,The Witch,"May 19, 2017",20,84,83
+Jim Jones & The Righteous Mind,Super Natural,"May 12, 2017",19,84,0
+Saltland,A Common Truth,"March 31, 2017",13,84,0
+Ibibio Sound Machine,Uyai,"March 3, 2017",9,84,77
+Jesca Hoop,Memories Are Now,"February 10, 2017",6,83,81
+Japanese Breakfast,Soft Sounds From Another Planet,"July 14, 2017",28,83,82
+Sheer Mag,Need to Feel Your Love,"July 14, 2017",28,83,79
+Julien Baker,Turn Out the Lights,"October 27, 2017",43,83,79
+Sleater-Kinney,Live in Paris,"January 27, 2017",4,83,77
+Hurray for the Riff Raff,The Navigator,"March 10, 2017",10,83,71
+Mark Lanegan Band,Gargoyle,"April 28, 2017",17,83,76
+EX EYE,EX EYE,"June 23, 2017",25,83,73
+Tony Allen,The Source,"September 8, 2017",36,83,0
+Angaleena Presley,Wrangled,"April 21, 2017",16,83,65
+Priests,Nothing Feels Natural,"January 27, 2017",4,83,78
+L.A. Witch,L.A Witch,"September 8, 2017",36,83,78
+Alasdair Roberts,Pangs,"February 24, 2017",8,83,0
+Nick Heyward,Woodland Echoes,"August 4, 2017",31,83,84
+Nicole Atkins,Goodnight Rhonda Lee,"July 21, 2017",29,83,77
+Call Super,Arpo,"November 10, 2017",45,83,85
+Aldous Harding,Party,"May 19, 2017",20,83,81
+The Mountain Goats,Goths,"May 19, 2017",20,83,78
+Do Make Say Think,Stubborn Persistent Illusions,"May 19, 2017",20,83,76
+Jens Lekman,Life Will See You Now,"February 17, 2017",7,83,78
+2 Chainz,Pretty Girls Like Trap Music,"June 16, 2017",24,82,71
+Björk,Utopia,"November 24, 2017",47,82,76
+Richard Dawson,Peasant,"June 2, 2017",22,82,81
+Open Mike Eagle,Brick Body Kids Still Daydream,"September 15, 2017",37,82,82
+Stormzy,Gang Signs & Prayer,"February 24, 2017",8,82,74
+Gregg Allman,Southern Blood,"September 8, 2017",36,82,0
+Ty Segall,Ty Segall (2017),"January 27, 2017",4,82,81
+Randy Newman,Dark Matter,"August 4, 2017",31,82,76
+Phoebe Bridgers,Stranger in the Alps,"September 22, 2017",38,82,89
+Ulver,The  Assassination of Julius Caesar,"April 7, 2017",14,82,82
+Margo Price,All American Made,"October 20, 2017",42,82,76
+Arve Henriksen,Towards Language,"June 2, 2017",22,82,0
+Six Organs of Admittance,Burning the Threshold,"February 24, 2017",8,82,87
+Jay Som,Everybody Works,"March 10, 2017",10,82,78
+Eliza Carthy,Big Machine,"February 3, 2017",5,82,74
+Allison Crutchfield,Tourist in This Town,"January 27, 2017",4,82,78
+The Body,Ascending a Mountain of Heavy Light,"November 17, 2017",46,82,0
+Jay-Z,4:44,"June 30, 2017",26,82,74
+Jason Isbell and the 400 Unit,The Nashville Sound,"June 16, 2017",24,82,77
+Joan Shelley,Joan Shelley,"May 5, 2017",18,82,73
+Paramore,After Laughter,"May 12, 2017",19,82,84
+Lawrence English,Cruel Optimism,"February 17, 2017",7,82,0
+Slowdive,Slowdive,"May 5, 2017",18,82,82
+Pallbearer,Heartless,"March 24, 2017",12,82,80
+Julie Byrne,Not Even Happiness,"January 27, 2017",4,82,80
+(Sandy) Alex G,Rocket,"May 19, 2017",20,82,82
+Mount Kimbie,Love What Survives,"September 8, 2017",36,82,79
+Grizzly Bear,Painted Ruins,"August 18, 2017",33,82,84
+Kaitlyn Aurelia Smith,The Kid,"October 6, 2017",40,82,77
+Hauschka,What If,"March 31, 2017",13,82,76
+Spoon,Hot Thoughts,"March 17, 2017",11,82,80
+Michael Chapman,50,"January 20, 2017",3,82,0
+Tara Jane O'Neil,Tara Jane O'Neil,"April 21, 2017",16,82,80
+BROCKHAMPTON,Saturation III,"December 15, 2017",50,82,86
+Wolf Parade,Cry Cry Cry,"October 6, 2017",40,82,81
+Spectres,Condition,"March 10, 2017",10,81,0
+Chelsea Wolfe,Hiss Spun,"September 22, 2017",38,81,77
+Laetitia Sadier Source Ensemble,Find Me Finding You,"March 24, 2017",12,81,0
+Lost Horizons,Ojalá,"November 3, 2017",44,81,74
+Wolf Alice,Visions of a Life,"September 29, 2017",39,81,84
+Nick Hakim,Green Twins,"May 19, 2017",20,81,81
+Man Forever,Play What They Want,"May 19, 2017",20,81,0
+Part Chimp,IV,"April 14, 2017",15,81,0
+Piano Magic,Closure,"January 27, 2017",4,81,78
+Gabriel Garzón-Montano,Jardín,"January 27, 2017",4,81,78
+Big Thief,Capacity,"June 9, 2017",23,81,80
+Chris Stapleton,"From a Room, Vol. 1","May 5, 2017",18,81,72
+Actress,AZD,"April 14, 2017",15,81,69
+Everything Everything,A Fever Dream,"August 18, 2017",33,81,82
+Nadine Shah,Holiday Destination,"August 25, 2017",34,81,82
+The Sadies,Northern Passages,"February 10, 2017",6,81,0
+Offa Rex,The Queen of Hearts,"July 14, 2017",28,81,0
+Conor Oberst,Salutations,"March 17, 2017",11,81,79
+Buffy Sainte-Marie,Medicine Songs,"November 10, 2017",45,81,0
+Sorority Noise,You're Not As _____ As You Think,"March 17, 2017",11,81,78
+Peter Perrett,How the West Was Won,"June 30, 2017",26,81,0
+Sacred Paws,Strike a Match,"January 27, 2017",4,81,78
+Blanck Mass,World Eater,"March 3, 2017",9,81,80
+The Pollyseeds,"The Sounds of Crenshaw, Vol. 1","July 14, 2017",28,81,0
+Sparks,Hippopotamus,"September 8, 2017",36,81,74
+Cairo Gang,Untouchable,"March 24, 2017",12,81,0
+Max Richter,Max Richter: Three Worlds – Music from Woolf Works,"January 27, 2017",4,81,76
+James Holden & the Animal Spirits,The Animal Spirits,"November 3, 2017",44,81,80
+Gun Outfit,Out of Range,"November 10, 2017",45,81,0
+Syd,Fin,"February 3, 2017",5,81,82
+Linda Perhacs,I'm a Harmony,"September 22, 2017",38,81,0
+Tall Ships,Impressions,"February 10, 2017",6,81,83
+Emptyset,Borders,"January 27, 2017",4,81,78
+Bing & Ruth,No Home of the Mind,"February 17, 2017",7,81,0
+Miguel,War & Leisure,"December 1, 2017",48,81,77
+Beach Fossils,Somersault,"June 2, 2017",22,81,80
+The Unthanks,Diversions Vol. 4: The Songs and Poems of Molly Drake,"May 26, 2017",21,81,0
+All Them Witches,Sleeping Through the War,"February 24, 2017",8,81,85
+Sleaford Mods,English Tapas,"March 3, 2017",9,81,77
+Fleet Foxes,Crack-Up,"June 16, 2017",24,81,83
+Robert Finley,Goin' Platinum!,"December 8, 2017",49,81,0
+Melanie De Biasio,Lilies,"October 6, 2017",40,81,0
+The War on Drugs,A Deeper Understanding,"August 25, 2017",34,81,84
+Kesha,Rainbow,"August 11, 2017",32,81,86
+Queens of the Stone Age,Villains,"August 25, 2017",34,81,76
+Pond,The Weather,"May 5, 2017",18,80,80
+Mavis Staples,If All I Was Was Black,"November 17, 2017",46,80,68
+Tei Shi,Crawl Space,"March 31, 2017",13,80,80
+Anohni,Paradise [EP],"March 17, 2017",11,80,68
+Rhiannon Giddens,Freedom Highway,"February 24, 2017",8,80,84
+Rose Elinor Dougall,Stellular,"January 20, 2017",3,80,75
+Moire,No Future,"February 17, 2017",7,80,0
+Crystal Fairy,Crystal Fairy,"February 24, 2017",8,80,0
+The Feelies,In Between,"February 24, 2017",8,80,0
+Feist,Pleasure,"April 28, 2017",17,80,80
+The Clientele,Music for the Age of Miracles,"September 22, 2017",38,80,74
+King Krule,The Ooz,"October 13, 2017",41,80,82
+The World Is a Beautiful Place & I Am No Longer Afraid to Die,Always Foreign,"September 29, 2017",39,80,76
+Rozwell Kid,Precious Art,"June 23, 2017",25,80,71
+The Menzingers,After the Party,"February 3, 2017",5,80,81
+Hiss Golden Messenger,Hallelujah Anyhow,"September 22, 2017",38,80,75
+Bill Orcutt,Bill Orcutt,"June 30, 2017",26,80,0
+Curtis Harding,Face Your Fear,"October 27, 2017",43,80,87
+Chris Stapleton,"From a Room, Vol. 2","December 1, 2017",48,80,76
+Alex Lahey,I Love You Like a Brother,"October 6, 2017",40,80,74
+Meat Wave,The Incessant,"February 17, 2017",7,80,0
+Elbow,Little Fictions,"February 3, 2017",5,80,79
+Uniform,Wake in Fright,"January 20, 2017",3,80,0
+Bob Dylan,Triplicate,"March 31, 2017",13,80,78
+Charlotte Gainsbourg,Rest,"November 17, 2017",46,80,85
+Lapalux,Ruinism,"June 30, 2017",26,80,88
+Lee Gamble,Mnestic Pressure,"October 20, 2017",42,80,0
+Ray Davies,Americana,"April 21, 2017",16,80,73
+Thundercat,Drunk,"February 24, 2017",8,80,80
+Raekwon,The Wild,"March 24, 2017",12,80,76
+Waxahatchee,Out in the Storm,"July 14, 2017",28,80,80
+Amadou & Mariam,La Confusion,"September 22, 2017",38,80,0
+Big K.R.I.T.,4eva Is a Mighty Long Time,"October 27, 2017",43,80,82
+The Dream Syndicate,How Did I Find Myself Here?,"September 8, 2017",36,80,83
+Iron & Wine,Beast Epic,"August 25, 2017",34,80,76
+Oneohtrix Point Never,Good Time [Original Motion Picture Soundtrack],"August 11, 2017",32,80,84
+Paul Kelly,Life Is Fine,"August 11, 2017",32,80,0
+David Rawlings,Poor David's Almanack,"August 11, 2017",32,80,0
+Laibach,Also Sprach Zarathustra,"July 14, 2017",28,80,0
+EMA,Exile in the Outer Ring,"August 25, 2017",34,80,79
+Daphni,Fabriclive 93,"July 21, 2017",29,80,0
+Colleen,"A  Flame My Love, a Frequency","October 20, 2017",42,80,0
+Mark Eitzel,Hey Mr Ferryman,"January 27, 2017",4,80,71
+Visible Cloaks,Reassemblage,"February 17, 2017",7,80,74
+Robyn Hitchcock,Robyn Hitchcock,"April 21, 2017",16,80,79
+Susanne Sundfør,Music for People in Trouble,"August 25, 2017",34,80,87
+Kevin Morby,City Music,"June 16, 2017",24,80,75
+Girlpool,Powerplant,"May 12, 2017",19,80,74
+Original Soundtrack,T2: Trainspotting [Original Motion Picture Soundtrack],"February 3, 2017",5,80,0
+Colin Stetson,All This I Do for Glory,"April 28, 2017",17,80,79
+Alison Moyet,Other,"June 16, 2017",24,80,70
+Benjamin Clementine,I Tell a Fly,"October 6, 2017",40,80,78
+Anathema,The Optimist,"June 9, 2017",23,80,81
+Marika Hackman,I'm Not Your Man,"June 2, 2017",22,80,78
+Chuck Prophet,Bobby Fuller Died for Your Sins,"February 10, 2017",6,80,79
+Manchester Orchestra,A Black Mile to the Surface,"July 28, 2017",30,79,83
+Drake,More Life [Mixtape],"March 18, 2017",11,79,68
+Willie Nelson,God's Problem Child,"April 28, 2017",17,79,88
+The Heliocentrics,A  World of Masks,"May 26, 2017",21,79,80
+Japandroids,Near to the Wild Heart of Life,"January 27, 2017",4,79,77
+The Afghan Whigs,In Spades,"May 5, 2017",18,79,69
+Mick Harvey,Intoxicated Women,"January 20, 2017",3,79,68
+Torres,Three Futures,"September 29, 2017",39,79,73
+Dent May,Across the Multiverse,"August 18, 2017",33,79,82
+Makthaverskan,III,"October 20, 2017",42,79,0
+Frankie Rose,Cage Tropical,"August 11, 2017",32,79,80
+Ben Gibbard,Bandwagonesque,"July 28, 2017",30,79,74
+Courtney Barnett,Lotta Sea Lice,"October 13, 2017",41,79,75
+Mogwai,Every Country's Sun,"September 1, 2017",35,79,79
+Low Cut Connie,"Dirty Pictures, Pt. 1","May 19, 2017",20,79,0
+Sherwood & Pinch,Man vs. Sofa,"February 24, 2017",8,79,0
+Lowly,Heba,"February 10, 2017",6,79,0
+Girl Ray,Earl Grey,"August 4, 2017",31,79,68
+Orchestra Baobab,Tribute to Ndiouga Dieng,"March 31, 2017",13,79,0
+James Yorkston,Neuk Wight Delhi All-Stars,"April 7, 2017",14,79,0
+Jacques Greene,Feel Infinite,"March 24, 2017",12,79,70
+The Necks,Unfold,"February 10, 2017",6,79,0
+Duke Garwood,Garden of Ashes,"February 3, 2017",5,79,74
+Mac DeMarco,This Old Dog,"May 5, 2017",18,79,82
+Ryan Adams,Prisoner,"February 17, 2017",7,79,80
+Nite Jewel,Real High,"May 5, 2017",18,79,77
+Diamanda Galás,All the Way,"March 24, 2017",12,79,0
+R. Stevie Moore,Make It Be,"March 10, 2017",10,79,0
+Bicep,Bicep,"September 1, 2017",35,79,85
+Les Amazones d'Afrique,Republique Amazone,"March 31, 2017",13,79,0
+Forest Swords,Compassion,"May 5, 2017",18,79,79
+Old 97's,Graveyard Whistling,"February 24, 2017",8,79,84
+Oh Sees,Orc,"August 25, 2017",34,79,82
+Cloud Nothings,Life Without Sound,"January 27, 2017",4,79,76
+Ariel Pink,Dedicated to Bobby Jameson,"September 15, 2017",37,79,80
+Zola Jesus,Okovi,"September 8, 2017",36,79,78
+Stars,There Is No Love in Fluorescent Light,"October 13, 2017",41,79,80
+Migos,C U L T U R E,"January 27, 2017",4,79,74
+Pixx,The Age of Anxiety,"June 2, 2017",22,79,81
+Diet Cig,Swear I'm Good at This,"April 7, 2017",14,79,70
+Kelly Lee Owens,Kelly Lee Owens,"March 24, 2017",12,79,80
+Chastity Belt,I Used to Spend So Much Time Alone,"June 2, 2017",22,79,71
+Saint Etienne,Home Counties,"June 2, 2017",22,79,71
+Deerhoof,Mountain Moves,"September 8, 2017",36,79,80
+Land of Talk,Life After Youth,"May 19, 2017",20,79,78
+Ghostpoet,Dark Days + Canapés,"August 18, 2017",33,79,71
+The New Year,Snow,"April 28, 2017",17,79,73
+Ron Sexsmith,The Last Rider,"April 21, 2017",16,79,0
+James Elkington,Wintres Woma,"June 30, 2017",26,79,0
+Benjamin Booker,Witness,"June 2, 2017",22,79,66
+White Reaper,The World's Best American Band,"April 7, 2017",14,79,78
+Pharmakon,Contact,"March 31, 2017",13,79,67
+Blue Hawaii,Tenderness,"October 6, 2017",40,78,80
+Ibeyi,Ash,"September 29, 2017",39,78,81
+Thurston Moore,Rock N Roll Consciousness,"April 28, 2017",17,78,77
+Ikonika,Distractions,"June 2, 2017",22,78,0
+21 Savage,Without Warning,"October 31, 2017",44,78,72
+Ho99o9,United States of Horror,"May 5, 2017",18,78,80
+Wolf Eyes,Undertow,"March 24, 2017",12,78,0
+Baxter Dury,Prince of Tears,"October 27, 2017",43,78,73
+Circa Waves,Different Creatures,"March 10, 2017",10,78,69
+A Giant Dog,Toy,"August 25, 2017",34,78,85
+Peter Silberman,Impermanence,"February 24, 2017",8,78,75
+Timber Timbre,"Sincerely, Future Pollution","April 7, 2017",14,78,76
+John Maus,Screen Memories,"October 27, 2017",43,78,76
+Dizzee Rascal,Raskit,"July 21, 2017",29,78,69
+Grails,Chalice Hymnal,"February 17, 2017",7,78,0
+Mura Masa,Mura Masa,"July 14, 2017",28,78,78
+The Bug,Concrete Desert,"March 24, 2017",12,78,0
+Destroyer,Ken,"October 20, 2017",42,78,78
+Pere Ubu,20 Years in a Montana Missile Silo,"September 29, 2017",39,78,0
+Ted Leo,The Hanged Man,"September 8, 2017",36,78,82
+Downtown Boys,Cost of Living,"August 11, 2017",32,78,73
+Nikki Lane,Highway Queen,"February 17, 2017",7,78,86
+Avec le Soleil Sortant de Sa Bouche,"Pas Pire Pop, I Love You So Much","January 20, 2017",3,78,0
+This Is the Kit,Moonshine Freeze,"July 7, 2017",27,78,0
+Clark,Death Peak,"April 7, 2017",14,78,76
+Future,HNDRXX,"February 24, 2017",8,78,71
+Justin Townes Earle,Kids In The Street,"May 26, 2017",21,78,0
+Bibio,Phantom Brickworks,"November 3, 2017",44,78,69
+John Carpenter,Anthology: Movie Themes 1974-1998,"October 20, 2017",42,78,0
+Melkbelly,Nothing Valley,"October 13, 2017",41,78,75
+Carl Craig,Versus,"May 5, 2017",18,78,0
+The New Pornographers,Whiteout Conditions,"April 7, 2017",14,78,79
+Hercules & Love Affair,Omnion,"September 1, 2017",35,78,77
+"Bonnie ""Prince"" Billy",Best Troubador,"May 5, 2017",18,78,0
+Mary Epworth,Elytral,"September 1, 2017",35,78,0
+Happyness,Write In,"April 7, 2017",14,78,0
+Mastodon,Emperor of Sand,"March 31, 2017",13,78,81
+British Sea Power,Let the Dancers Inherit the Party,"March 31, 2017",13,78,78
+Xiu Xiu,Forget,"February 24, 2017",8,78,80
+Chad VanGaalen,Light Information,"September 8, 2017",36,78,0
+METZ,Strange Peace,"September 22, 2017",38,78,77
+Pulled Apart by Horses,The Haze,"March 17, 2017",11,78,0
+Amber Coffman,City of No Reply,"June 2, 2017",22,78,75
+Lana Del Rey,Lust for Life,"July 21, 2017",29,77,80
+John Mellencamp,Sad Clowns & Hillbillies,"April 28, 2017",17,77,0
+Ty Dolla $ign,Beach House III,"October 27, 2017",43,77,70
+Shabazz Palaces,Quazarz vs. The Jealous Machines,"July 14, 2017",28,77,72
+Bitchin Bajas,Bajas Fresh,"November 17, 2017",46,77,0
+Boris,Dear,"July 14, 2017",28,77,0
+JD McPherson,Undivided Heart & Soul,"October 6, 2017",40,77,0
+AFI,AFI (The Blood Album),"January 20, 2017",3,77,65
+Dirty Projectors,Dirty Projectors,"February 21, 2017",8,77,79
+Nabihah Iqbal,Weighing of the Heart,"December 1, 2017",48,77,0
+Peter Oren,Anthropocene,"November 10, 2017",45,77,0
+Lee Ann Womack,"The Lonely, The Lonesome & The Gone","October 27, 2017",43,77,0
+Dutch Uncles,Big Balloon,"February 17, 2017",7,77,73
+Steven Wilson,To the Bone,"August 18, 2017",33,77,84
+Princess Nokia,1992 Deluxe,"September 8, 2017",36,77,82
+John Murry,A Short History of Decay,"July 21, 2017",29,77,0
+Shabazz Palaces,Quazarz: Born on a Gangster Star,"July 14, 2017",28,77,75
+Gorillaz,Humanz,"April 28, 2017",17,77,71
+Quicksand,Interiors,"November 10, 2017",45,77,71
+Future Islands,The  Far Field,"April 7, 2017",14,77,75
+Citizen,As You Please,"October 6, 2017",40,77,72
+Daniele Luppi,Milano,"October 27, 2017",43,77,70
+Tift Merritt,Stitch of the World,"January 27, 2017",4,77,0
+Public Service Broadcasting,Every Valley,"July 7, 2017",27,77,76
+Sløtface,Try Not To Freak Out,"September 15, 2017",37,77,70
+Bonobo,Migration,"January 13, 2017",2,77,79
+Karl Blau,Out Her Space,"November 17, 2017",46,77,0
+The Barr Brothers,Queens of the Breakers,"October 13, 2017",41,77,69
+Gabriella Cohen,Full Closure and No Details,"March 17, 2017",11,77,0
+Gucci Mane,Mr. Davis,"October 13, 2017",41,77,62
+Hoops,Routines,"May 5, 2017",18,77,0
+The Drums,Abysmal Thoughts,"June 16, 2017",24,77,83
+Wire,Silver/Lead,"April 7, 2017",14,77,83
+Katie von Schleicher,Shitty Hits,"July 28, 2017",30,77,0
+Original Soundtrack,The Bob's Burgers Music Album [Original Television Soundtrack],"May 12, 2017",19,77,0
+Son Volt,Notes of Blue,"February 17, 2017",7,77,71
+Rostam,Half-Light,"September 15, 2017",37,77,73
+Boss Hog,Brood X,"March 24, 2017",12,77,0
+Alvvays,Antisocialites,"September 8, 2017",36,77,84
+Holly Macve,Golden Eagle,"March 3, 2017",9,77,0
+Grandaddy,Last Place,"March 3, 2017",9,76,79
+Pissed Jeans,Why Love Now,"February 24, 2017",8,76,76
+Noel Gallagher's High Flying Birds,Who Built the Moon?,"November 24, 2017",47,76,73
+Julia Holter,In the Same Room,"March 31, 2017",13,76,78
+Freddie Gibbs,You Only Live 2wice,"March 31, 2017",13,76,78
+Kehlani,SweetSexySavage,"January 27, 2017",4,76,86
+Broken Social Scene,Hug of Thunder,"July 7, 2017",27,76,81
+Blondes,Warmth,"August 11, 2017",32,76,0
+Why?,Moh Lhean,"March 3, 2017",9,76,73
+Teen Daze,Themes for Dying Earth,"February 10, 2017",6,76,74
+Floating Points,Reflections: Mojave Desert,"June 30, 2017",26,76,73
+Tori Amos,Native Invader,"September 8, 2017",36,76,88
+Penguin Cafe,The Imperfect Sea,"May 5, 2017",18,76,0
+Tycho,Epoch,"January 20, 2017",3,76,71
+David Crosby,Sky Trails,"September 29, 2017",39,76,0
+Laraaji,Bring on the Sun,"September 22, 2017",38,76,0
+Rise Against,Wolves,"June 9, 2017",23,76,82
+Children of Alice,Children of Alice,"February 24, 2017",8,76,0
+Godspeed You! Black Emperor,Luciferian Towers,"September 22, 2017",38,76,79
+The Districts,Popular Manipulations,"August 11, 2017",32,76,77
+BNQT,Volume 1,"April 28, 2017",17,76,71
+Ruthie Foster,Joy Comes Back,"March 24, 2017",12,76,0
+Wand,Plum,"September 22, 2017",38,76,60
+Dead Cross,Dead Cross,"August 4, 2017",31,76,78
+Deer Tick,"Deer Tick, Vol. 2","September 15, 2017",37,76,73
+Paul Heaton,Crooked Calypso,"July 21, 2017",29,76,0
+Faust,Fresh Air,"May 5, 2017",18,76,0
+Cherry Glazerr,Apocalipstick,"January 20, 2017",3,76,82
+The Brian Jonestown Massacre,Don't Get Lost,"February 24, 2017",8,76,73
+Wolves in the Throne Room,Thrice Woven,"September 22, 2017",38,76,78
+Dropkick Murphys,11 Short Stories Of Pain & Glory,"January 6, 2017",1,76,72
+Action Bronson,Blue Chips 7000,"August 25, 2017",34,76,75
+Foxygen,Hang,"January 20, 2017",3,76,80
+Kllo,Backwater,"October 20, 2017",42,76,73
+Declan McKenna,What Do You Think About the Car?,"July 21, 2017",29,76,85
+Real Estate,In Mind,"March 17, 2017",11,76,77
+Mark Mulcahy,The Possum in the Driveway,"April 28, 2017",17,75,0
+Special Request,Belief System,"October 27, 2017",43,75,0
+Steve Earle & the Dukes,So You Wannabe an Outlaw,"June 16, 2017",24,75,0
+The Big Moon,Love in the 4th Dimension,"April 7, 2017",14,75,77
+Cigarettes After Sex,Cigarettes After Sex,"June 9, 2017",23,75,85
+PVT,New Spirit,"February 17, 2017",7,75,0
+Throwing Snow,Embers,"January 20, 2017",3,75,78
+Peaking Lights,The Fifth State of Consciousness,"June 2, 2017",22,75,0
+Sylvan Esso,What Now,"April 28, 2017",17,75,75
+Molly Burch,Please Be Mine,"February 17, 2017",7,75,72
+The Black Angels,Death Song,"April 21, 2017",16,75,80
+Lil Uzi Vert,Luv Is Rage 2,"August 25, 2017",34,75,71
+Dan Auerbach,Waiting on a Song,"June 2, 2017",22,75,73
+Brian Eno,Reflection,"January 1, 2017",52,75,76
+Spinning Coin,Permo,"November 10, 2017",45,75,0
+The Blow,Brand New Abyss,"September 22, 2017",38,75,0
+The Used,The  Canyon,"October 27, 2017",43,75,74
+Shelby Lynne,Not Dark Yet,"August 18, 2017",33,75,0
+Joey Bada$$,All-Amerikkkan Bada$$,"April 7, 2017",14,75,81
+Ben Frost,The Centre Cannot Hold,"September 29, 2017",39,75,80
+Luna,A Sentimental Education,"September 22, 2017",38,75,0
+Emily Haines & the Soft Skeleton,Choir of the Mind,"September 15, 2017",37,75,78
+Portico Quartet,Art in the Age of Automation,"August 25, 2017",34,75,0
+Guided by Voices,How Do You Spell Heaven,"August 11, 2017",32,75,0
+Soccer Mommy,Collection,"August 4, 2017",31,75,90
+Lydia Ainsworth,Darling of the Afterglow,"March 31, 2017",13,75,70
+The Courtneys,The Courtneys II,"February 17, 2017",7,75,80
+Fazerdaze,Morningside,"May 5, 2017",18,74,81
+Mr. Mitch,Devout,"April 21, 2017",16,74,0
+A Winged Victory for the Sullen,Iris [Original Motion Picture Soundtrack],"January 13, 2017",2,74,0
+Childhood,Universal High,"July 21, 2017",29,74,0
+Dhani Harrison,IN///PARALLEL,"October 6, 2017",40,74,88
+Omni,Multi-Task,"September 22, 2017",38,74,75
+Bash & Pop,Anything Could Happen,"January 20, 2017",3,74,0
+Will Stratton,Rosewood Almanac,"May 12, 2017",19,74,0
+Beth Ditto,Fake Sugar,"June 16, 2017",24,74,87
+Goldfrapp,Silver Eye,"March 31, 2017",13,74,78
+Living Colour,Shade,"September 8, 2017",36,74,0
+Gary Numan,Savage (Songs from a Broken World),"September 15, 2017",37,74,71
+Mew,Visuals,"April 28, 2017",17,74,72
+Spiral Stairs,Doris & the Daggers,"March 24, 2017",12,74,0
+Depeche Mode,Spirit,"March 17, 2017",11,74,76
+Jeff Tweedy,Together At Last,"June 23, 2017",25,74,64
+Lindstrøm,It's Alright Between Us as It Is,"October 20, 2017",42,74,0
+Cindy Wilson,Change,"December 1, 2017",48,74,0
+Sinkane,Life & Livin' It,"February 10, 2017",6,74,68
+N.E.R.D,No One Ever Really Dies,"December 15, 2017",50,74,76
+Golden Teacher,No Luscious Life,"November 3, 2017",44,74,0
+Tom Rogerson,Finding Shore,"December 8, 2017",49,74,0
+Bully,Losing,"October 20, 2017",42,74,66
+Enter Shikari,The Spark,"September 22, 2017",38,74,80
+Austra,Future Politics,"January 20, 2017",3,74,74
+Frank Carter & the Rattlesnakes,Modern Ruin,"January 20, 2017",3,74,78
+Electric Wizard,Wizard Bloody Wizard,"November 17, 2017",46,74,0
+Rat Boy,Scum,"August 11, 2017",32,74,73
+The Charlatans UK,Different Days,"May 26, 2017",21,74,72
+Cornelius,Mellow Waves,"July 21, 2017",29,74,76
+Coco Hames,Coco Hames,"March 31, 2017",13,74,0
+Los Campesinos!,Sick Scenes,"February 24, 2017",8,74,75
+Mary J. Blige,Strength of a Woman,"April 28, 2017",17,74,82
+Johnny Flynn,Sillion,"March 24, 2017",12,74,75
+Craig Finn,We All Want the Same Things,"March 24, 2017",12,73,73
+Deer Tick,"Deer Tick, Vol. 1","September 15, 2017",37,73,0
+Toro y Moi,Boo Boo,"July 7, 2017",27,73,78
+Camille,OUÏ,"June 9, 2017",23,73,0
+Mind Over Mirrors,Undying Color,"February 17, 2017",7,73,0
+OCS,Memory of a Cut Off Head,"November 17, 2017",46,73,84
+Ride,Weather Diaries,"June 16, 2017",24,73,74
+San Fermin,Belong,"April 7, 2017",14,73,0
+Imelda May,Life. Love. Flesh. Blood,"April 21, 2017",16,73,0
+Jidenna,The  Chief,"February 17, 2017",7,73,75
+Andrew Weatherall,Qualia,"September 29, 2017",39,73,0
+Kingdom,Tears in the Club,"February 24, 2017",8,73,0
+The Shins,Heartworms,"March 10, 2017",10,73,76
+Liars,TFCF,"August 25, 2017",34,73,63
+Flo Morrissey,"Gentlewoman, Ruby Man","January 13, 2017",2,73,64
+Nathan Fake,Providence,"March 10, 2017",10,73,0
+Filthy Friends,Invitation,"August 25, 2017",34,73,0
+Baths,Romaplasm,"November 17, 2017",46,73,68
+Minor Victories,Orchestral Variations,"January 27, 2017",4,73,0
+Kelly Clarkson,Meaning of Life,"October 27, 2017",43,73,72
+Nick Mulvey,Wake Up Now,"September 8, 2017",36,73,0
+King Gizzard & the Lizard Wizard,Murder of the Universe,"June 23, 2017",25,73,76
+Sam Amidon,The Following Mountain,"May 26, 2017",21,73,0
+Lee Ranaldo,Electric Trim,"September 15, 2017",37,73,76
+Woods,Love Is Love,"April 21, 2017",16,72,75
+Com Truise,Iteration,"June 16, 2017",24,72,83
+Flamin Groovies,Fantastic Plastic,"September 22, 2017",38,72,0
+Dua Lipa,Dua Lipa,"June 2, 2017",22,72,82
+Radiophonic Workshop,Burials in Several Earths,"May 19, 2017",20,72,0
+King Gizzard & the Lizard Wizard,Flying Microtonal Banana,"February 24, 2017",8,72,81
+Ron Gallo,Heavy Meta,"February 3, 2017",5,72,0
+Xenoula,Xenoula,"November 24, 2017",47,72,0
+Foo Fighters,Concrete and Gold,"September 15, 2017",37,72,75
+Lindsey Buckingham,Lindsey Buckingham/Christine McVie,"June 9, 2017",23,72,74
+Moon Duo,"Occult Architecture, Vol. 1","February 3, 2017",5,72,68
+Roger Waters,Is This the Life We Really Want?,"June 2, 2017",22,72,77
+Sufjan Stevens,Planetarium,"June 9, 2017",23,72,79
+Tim Darcy,Saturday Night,"February 17, 2017",7,72,73
+Tennis,Yours Conditionally,"March 10, 2017",10,72,79
+Ducktails,Jersey Devil,"October 6, 2017",40,72,84
+Karen Elson,Double Roses,"April 7, 2017",14,72,86
+QTY,QTY,"December 8, 2017",49,72,0
+Michelle Branch,Hopeless Romantic,"April 7, 2017",14,72,66
+Beck,Colors,"October 13, 2017",41,72,81
+Temples,Volcano,"March 3, 2017",9,72,79

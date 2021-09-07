@@ -1,0 +1,465 @@
+artist,album,date,week_num,meta_score,user_score
+Kanye West,My Beautiful Dark Twisted Fantasy,"November 22, 2010",47,94,83
+Janelle Monáe,The ArchAndroid,"May 18, 2010",20,91,89
+Jamey Johnson,The  Guitar Song,"September 14, 2010",37,91,80
+Big Boi,Sir Lucious Left Foot: The Son of Chico Dusty,"July 6, 2010",27,90,88
+Ali Farka Toure And Toumani Diabate,Ali & Toumani,"February 23, 2010",8,89,85
+Bob Dylan,The Witmark Demos: 1962-1964,"October 19, 2010",42,88,77
+Black Tambourine,Black Tambourine,"March 30, 2010",13,88,75
+Marc Ribot,Silent Movies,"September 28, 2010",39,87,76
+Bilal,Airtight's Revenge,"September 14, 2010",37,87,86
+Arcade Fire,The Suburbs,"August 3, 2010",31,87,89
+Robyn,Body Talk,"November 22, 2010",47,86,89
+The Method Actors,This Is Still It,"March 6, 2010",9,86,83
+The Roots,How I Got Over,"June 22, 2010",25,86,87
+Deerhunter,Halcyon Digest,"September 28, 2010",39,86,86
+Konono No. 1,Assume Crash Position,"June 8, 2010",23,86,75
+Flying Lotus,Cosmogramma,"May 4, 2010",18,86,88
+Sam Amidon,I See The Sign,"April 13, 2010",15,86,86
+Kylesa,Spiral Shadow,"October 26, 2010",43,85,77
+The Budos Band,The  Budos Band III,"August 10, 2010",32,85,86
+Joanna Newsom,Have One On Me,"February 23, 2010",8,85,82
+Pavement,Quarantine The Past,"March 9, 2010",10,85,87
+The National,High Violet,"May 11, 2010",19,85,89
+Ariel Pink's Haunted Graffiti,Before Today,"June 8, 2010",23,85,81
+Ghostface Killah,Apollo Kids,"December 21, 2010",51,84,81
+LCD Soundsystem,This Is Happening,"May 18, 2010",20,84,86
+Sleigh Bells,Treats,"June 1, 2010",22,84,83
+The Tallest Man on Earth,Sometimes the Blues is Just a Passing Bird,"November 9, 2010",45,84,86
+Jason Moran,Ten,"June 22, 2010",25,84,76
+Twin Shadow,Forget,"September 28, 2010",39,84,86
+Paul Weller,Wake Up The Nation,"June 1, 2010",22,84,76
+Erykah Badu,New Amerykah Part Two: Return of the Ankh,"March 30, 2010",13,83,85
+Swans,My Father Will Guide Me Up a Rope to the Sky,"September 21, 2010",38,83,85
+Underoath,Ø (Disambiguation),"November 9, 2010",45,83,77
+The Walkmen,Lisbon,"September 14, 2010",37,83,87
+Grinderman,Grinderman 2,"September 14, 2010",37,83,81
+These New Puritans,Hidden,"March 2, 2010",9,83,88
+Superchunk,Majesty Shredding,"September 14, 2010",37,83,85
+Shining,Blackjazz,"February 2, 2010",5,83,71
+Caribou,Swim,"April 20, 2010",16,83,84
+Justin Townes Earle,Harlem River Blues,"September 14, 2010",37,83,0
+Pantha du Prince,Black Noise,"February 9, 2010",6,83,73
+Trash Talk,Eyes & Nines,"June 8, 2010",23,83,75
+Circa Survive,Blue Sky Noise,"April 20, 2010",16,83,87
+Jack Rose,Luck In The Valley,"February 23, 2010",8,83,57
+The Claudia Quintet,Royal Toast,"May 18, 2010",20,83,0
+Beach House,Teen Dream,"January 26, 2010",4,82,82
+Mary Gauthier,The  Foundling,"May 18, 2010",20,82,0
+The Dillinger Escape Plan,Option Paralysis,"March 23, 2010",12,82,73
+Laurie Anderson,Homeland,"June 22, 2010",25,82,88
+Sharon Van Etten,Epic,"September 21, 2010",38,82,83
+I Am Kloot,Sky at Night,"July 13, 2010",28,82,80
+Titus Andronicus,The Monitor,"March 9, 2010",10,82,80
+Harvey Milk,A Small Turn Of Human Kindness,"May 18, 2010",20,82,65
+Aloe Blacc,Good Things,"September 28, 2010",39,82,78
+Flying Lotus,Pattern + Grid World,"September 21, 2010",38,82,81
+Gilad Atzmon,For the Ghosts Within,"November 9, 2010",45,82,0
+Cancer Bats,"Bears, Mayors, Scraps & Bones","April 13, 2010",15,82,72
+Perfume Genius,Learning,"June 22, 2010",25,82,83
+Far,At Night We Live,"May 25, 2010",21,82,83
+Sun City Girls,Funeral Mariachi,"October 26, 2010",43,82,0
+Fucked Up,Couple Tracks: Singles 2002-2009,"January 26, 2010",4,82,0
+Jazmine Sullivan,Love Me Back,"November 30, 2010",48,82,88
+Roky Erickson With Okkervil River,True Love Cast Out All Evil,"April 20, 2010",16,82,83
+Four Tet,There Is Love In You,"January 26, 2010",4,82,81
+The Black Keys,Brothers,"May 18, 2010",20,82,86
+Vijay Iyer,Solo,"September 14, 2010",37,81,0
+How to Dress Well,Love Remains,"October 19, 2010",42,81,83
+Fionn Regan,The Shadow Of An Empire,"February 8, 2010",6,81,83
+Shad,TSOL,"October 5, 2010",40,81,86
+Vampire Weekend,Contra,"January 12, 2010",2,81,69
+Marnie Stern,Marnie Stern,"October 5, 2010",40,81,81
+Avi Buffalo,Avi Buffalo,"April 27, 2010",17,81,82
+Women,Public Strain,"September 28, 2010",39,81,87
+Josh Ritter,So Runs The World Away,"May 4, 2010",18,81,81
+The Fall,Your Future Our Clutter,"May 4, 2010",18,81,88
+Laura Marling,I Speak Because I Can,"April 6, 2010",14,81,88
+The Books,The Way Out,"July 20, 2010",29,81,83
+Yellow Swans,Going Places,"March 2, 2010",9,81,86
+Sharon Jones & the Dap-Kings,I Learned The Hard Way,"April 6, 2010",14,81,87
+The Unthanks,Here's The Tender Coming,"March 23, 2010",12,81,0
+Chicago Underground Duo,Boca Negra,"January 26, 2010",4,81,0
+Envy,Recitation,"October 12, 2010",41,81,0
+Teenage Fanclub,Shadows,"June 8, 2010",23,81,85
+Merle Haggard,I Am What I Am,"April 20, 2010",16,81,0
+Laura Veirs,July Flame,"January 12, 2010",2,81,78
+Dustin Wong,Infinite Love,"October 5, 2010",40,81,0
+Mavis Staples,You Are Not Alone,"September 14, 2010",37,81,0
+Micah P. Hinson,Micah P. Hinson and the Pioneer Saboteurs,"May 24, 2010",21,81,0
+Guster,Easy Wonderful,"October 5, 2010",40,81,85
+Sufjan Stevens,The  Age of Adz,"October 12, 2010",41,80,85
+Butch Walker And The Black Widows,I Liked It Better When You Had No Heart,"February 23, 2010",8,80,77
+Lindstrom & Christabelle,Real Life Is No Cool,"January 19, 2010",3,80,73
+Robert Plant,Band of Joy,"September 14, 2010",37,80,78
+Local Natives,Gorilla Manor,"February 16, 2010",7,80,88
+High on Fire,Snakes For The Divine,"February 23, 2010",8,80,68
+The Gaslight Anthem,American Slang,"June 15, 2010",24,80,85
+Neil Young,Le Noise,"September 28, 2010",39,80,79
+Gold Panda,Lucky Shiner,"October 12, 2010",41,80,81
+Reflection Eternal,Revolutions Per Minute,"May 18, 2010",20,80,81
+Cee Lo Green,The Lady Killer,"November 9, 2010",45,80,77
+Tom Jones,Praise & Blame,"July 27, 2010",30,80,0
+Spoon,Transference,"January 19, 2010",3,80,84
+Bring Me the Horizon,"There Is a Hell, Believe Me I've Seen It, There is a Heaven, Let's Keep It a Secret","October 5, 2010",40,80,86
+No Age,Everything in Between,"September 28, 2010",39,80,78
+Charlotte Gainsbourg,IRM,"January 26, 2010",4,80,72
+Dierks Bentley,Up On The Ridge,"June 8, 2010",23,80,0
+Loscil,Endless Falls,"March 2, 2010",9,80,79
+The Besnard Lakes,The Besnard Lakes Are The Roaring Night,"March 9, 2010",10,80,82
+Galactic,Ya-Ka-May,"February 9, 2010",6,80,73
+Take That,Progress,"November 22, 2010",47,80,70
+The Love Language,Libraries,"July 13, 2010",28,80,0
+Steve Mason,Boys Outside,"June 22, 2010",25,80,0
+"Bonnie ""Prince"" Billy & The Cairo Gang",The Wondershow Of The World,"March 23, 2010",12,80,80
+Punch Brothers,Antifogmatic,"June 15, 2010",24,80,88
+Frog Eyes,Paul's Tomb: A Triumph,"April 27, 2010",17,80,0
+Crazy Heart,OST,"January 19, 2010",3,79,70
+Freedy Johnston,Rain On The City,"January 12, 2010",2,79,88
+Antony and the Johnsons,Swanlights,"October 12, 2010",41,79,81
+Motion City Soundtrack,My Dinosaur Life,"January 19, 2010",3,79,76
+The-Dream,Love King,"June 29, 2010",26,79,84
+Johnny Cash,American VI: Ain't No Grave,"February 23, 2010",8,79,87
+Patty Griffin,Downtown Church,"January 26, 2010",4,79,87
+Elvis Costello,National Ransom,"November 2, 2010",44,79,68
+The Tallest Man on Earth,Wild Hunt,"April 13, 2010",15,79,88
+Dr. John,Tribal,"August 3, 2010",31,79,0
+Delorean,Subiza,"May 4, 2010",18,79,85
+Rick Ross,Teflon Don,"July 20, 2010",29,79,70
+Secret Sisters,The Secret Sisters,"October 12, 2010",41,79,0
+Black Milk,Album of the Year,"September 14, 2010",37,79,84
+Sade,Soldier Of Love,"February 9, 2010",6,79,86
+Mark McGuire,Living with Yourself,"October 12, 2010",41,79,0
+Screaming Females,Castle Talk,"September 14, 2010",37,79,0
+Allison Moorer,Crows,"February 9, 2010",6,79,0
+Dum Dum Girls,I Will Be,"March 30, 2010",13,79,81
+Killing Joke,Absolute Dissent,"November 22, 2010",47,79,78
+Hot Chip,One Life Stand,"February 9, 2010",6,79,74
+Curren$y,Pilot Talk II,"November 22, 2010",47,79,85
+Field Music,Field Music (Measure),"February 16, 2010",7,79,79
+Let's Wrestle,In The Court Of The Wrestling Let's,"March 23, 2010",12,79,0
+Surfer Blood,Astro Coast,"January 19, 2010",3,79,80
+Lawrence Arabia,Chant Darling,"January 4, 2010",1,79,82
+Drive-By Truckers,The Big To-Do,"March 16, 2010",11,78,82
+Scout Niblett,The Calcination Of Scout Niblett,"January 26, 2010",4,78,75
+Villagers,Becoming A Jackal,"June 8, 2010",23,78,87
+Matthew Dear,Black City,"August 17, 2010",33,78,83
+Willie Nelson,Country Music,"April 20, 2010",16,78,0
+John Mellencamp,No Better Than This,"August 17, 2010",33,78,80
+Deftones,Diamond Eyes,"May 4, 2010",18,78,88
+Gayngs,Relayted,"May 11, 2010",19,78,81
+Mose Allison,The Way Of The World,"March 23, 2010",12,78,0
+Liars,Sisterworld,"March 9, 2010",10,78,76
+Megafaun,Heretofore,"September 14, 2010",37,78,0
+Foals,Total Life Forever,"June 15, 2010",24,78,85
+Jesca Hoop,Hunting My Dress,"July 27, 2010",30,78,79
+Thee Silver Mt. Zion Memorial Orchestra & Tra-La-La Band,Kollaps Tradixionales,"February 16, 2010",7,78,82
+The Radio Dept.,Clinging To A Scheme,"April 20, 2010",16,78,87
+Gil Scott-Heron,I'm New Here,"February 9, 2010",6,78,86
+Polar Bear,Peepers,"March 16, 2010",11,78,84
+The Chieftains Featuring Ry Cooder,San Patricio,"March 9, 2010",10,78,74
+Frightened Rabbit,The Winter Of Mixed Drinks,"March 9, 2010",10,78,87
+Gonjasufi,A Sufi And A Killer,"March 9, 2010",10,78,86
+Carolina Chocolate Drops,Genuine Negro Jig,"February 16, 2010",7,78,87
+Freeway & Jake One,The Stimulus Package,"February 16, 2010",7,78,85
+Yeasayer,Odd Blood,"February 9, 2010",6,78,88
+The Booksman,Part II: The New December,"June 22, 2010",25,78,0
+Glasser,Ring,"September 28, 2010",39,78,87
+The Fresh & Onlys,Play It Strange,"October 12, 2010",41,78,78
+Daft Punk,Tron: Legacy,"December 7, 2010",49,78,0
+Phosphorescent,Here's To Taking It Easy,"May 11, 2010",19,78,0
+Mogwai,Special Moves/Burning,"August 24, 2010",34,78,80
+The White Stripes,Under Great White Northern Lights [Live],"March 16, 2010",11,78,87
+Corinne Bailey Rae,The Sea,"January 26, 2010",4,78,87
+Retribution Gospel Choir,2,"January 26, 2010",4,78,0
+Crystal Castles,Crystal Castles [2010],"June 8, 2010",23,77,89
+Gorillaz,Plastic Beach,"March 9, 2010",10,77,86
+Kelis,Flesh Tone,"July 6, 2010",27,77,84
+Sun Kil Moon,Admiral Fell Promises,"July 13, 2010",28,77,83
+No Joy,Ghost Blonde,"December 7, 2010",49,77,0
+Wolf People,Steeple,"October 12, 2010",41,77,0
+Richard Thompson,Dream Attic,"August 31, 2010",35,77,80
+Les Savy Fav,Root For Ruin,"September 14, 2010",37,77,73
+Faun Fables,Light of a Vaster Dark,"November 16, 2010",46,77,0
+Wildbirds & Peacedrums,Rivers,"August 24, 2010",34,77,80
+R. Kelly,Love Letter,"December 14, 2010",50,77,84
+Warpaint,The  Fool,"October 26, 2010",43,77,82
+Barn Owl,Ancestral Star,"November 1, 2010",44,77,0
+Tracey Thorn,Love And Its Opposite,"May 18, 2010",20,77,78
+Dr. Dog,"Shame, Shame","April 6, 2010",14,77,82
+The Mynabirds,What We Lose In The Fire We Gain In The Flood,"April 27, 2010",17,77,0
+Max Richter,Infra,"July 20, 2010",29,77,82
+Suckers,Wild Smile,"June 8, 2010",23,77,0
+Taylor Swift,Speak Now,"October 25, 2010",43,77,88
+The Melvins,Bride Screamed Murder,"June 1, 2010",22,77,74
+Male Bonding,Nothing Hurts,"May 11, 2010",19,77,80
+Mice Parade,What It Means to Be Left-Handed,"September 14, 2010",37,77,0
+Chew Lips,Unicorn,"February 1, 2010",5,77,75
+Broken Social Scene,Forgiveness Rock Record,"May 4, 2010",18,77,81
+Curren$y,Pilot Talk,"July 13, 2010",28,77,83
+Wrongtom,Duppy Writer,"September 21, 2010",38,77,0
+The Parting Gifts,Strychnine Dandelions,"November 9, 2010",45,77,0
+John Legend,Wake Up!,"September 21, 2010",38,77,73
+The Extra Lens,Undercard,"October 19, 2010",42,77,0
+Against Me!,White Crosses,"June 8, 2010",23,77,70
+Mystery Jets,Serotonin,"July 13, 2010",28,77,78
+The Futureheads,The Chaos,"June 1, 2010",22,77,78
+Damien Jurado,Saint Bartlett,"May 25, 2010",21,77,0
+Manic Street Preachers,Postcards From a Young Man,"September 21, 2010",38,76,79
+The Corin Tucker Band,"1,000 Years","October 5, 2010",40,76,0
+Robyn,"Body Talk, Pt. 2","September 7, 2010",36,76,87
+Best Coast,Crazy for You,"July 27, 2010",30,76,79
+Jónsi,Go,"April 6, 2010",14,76,87
+Los Lobos,Tin Can Trust,"August 3, 2010",31,76,0
+Autechre,Oversteps,"March 23, 2010",12,76,86
+Weekend,Sports,"November 9, 2010",45,76,0
+James,The Morning After,"September 14, 2010",37,76,68
+Phantogram,Eyelid Movies,"February 9, 2010",6,76,86
+White Hinterland,Kairos,"March 9, 2010",10,76,78
+Tindersticks,Falling Down A Mountain,"February 16, 2010",7,76,78
+Blitzen Trapper,Destroyer Of The Void,"June 8, 2010",23,76,74
+Steve Wynn and the Miracle 3,Northern Aggression,"November 30, 2010",48,76,0
+Free Energy,Stuck On Nothing,"May 4, 2010",18,76,86
+Javelin,No Mas,"April 6, 2010",14,76,0
+Avey Tare,Down There,"October 26, 2010",43,76,82
+Clipd Beaks,To Realize,"January 26, 2010",4,76,67
+Alejandro Escovedo,Street Songs of Love,"June 29, 2010",26,76,0
+Keith Urban,Get Closer,"November 16, 2010",46,76,88
+Oasis,Time Flies... 1994-2009,"June 15, 2010",24,76,78
+Jukebox the Ghost,Everything Under the Sun,"September 7, 2010",36,76,0
+Wooden Shjips,Vol. 2,"March 30, 2010",13,76,0
+Robyn,Body Talk Pt 1,"June 15, 2010",24,76,87
+Eluvium,Similes,"February 23, 2010",8,76,76
+Skream,Outside the Box,"September 14, 2010",37,76,88
+Skream,Outside the Box,"August 17, 2010",33,76,0
+Maximum Balloon,Maximum Balloon,"September 21, 2010",38,76,64
+Tracy Bonham,Masts of Manhatta,"July 13, 2010",28,76,0
+Various Artists,The Twilight Saga: Eclipse [OST],"June 8, 2010",23,76,54
+Cowboy Junkies,Renmin Park,"June 15, 2010",24,76,0
+Errors,Come Down With Me,"March 1, 2010",9,76,73
+Owen Pallett,Heartland,"January 12, 2010",2,76,83
+Dosh,Tommy,"April 13, 2010",15,76,0
+Leon Russell,The Union,"October 19, 2010",42,76,71
+Freddie Gibbs,Str8 Killa [EP],"August 3, 2010",31,76,83
+Jamie Lidell,Compass,"May 18, 2010",20,76,81
+Portico Quartet,Isla,"August 31, 2010",35,76,0
+Ólafur Arnalds,...And They Have Escaped the Weight of Darkness,"June 8, 2010",23,76,82
+Ed Harcourt,Lustre,"June 15, 2010",24,76,65
+The Hold Steady,Heaven Is Whenever,"May 4, 2010",18,76,83
+Autolux,Transit Transit,"August 3, 2010",31,75,83
+Tony Buck,Knoxville,"August 24, 2010",34,75,0
+You Say Party! We Say Die!,XXXX,"February 9, 2010",6,75,0
+Earth,A  Bureaucratic Desire for Extra-Capsular Extraction,"October 25, 2010",43,75,0
+Drake,Thank Me Later,"June 15, 2010",24,75,69
+Growing,Pumps!,"April 6, 2010",14,75,0
+The 1900s,Return of the Century,"November 2, 2010",44,75,0
+Blockhead,The Music Scene,"January 12, 2010",2,75,77
+Natalie Merchant,Leave Your Sleep,"April 13, 2010",15,75,88
+Cassandra Wilson,Silver Pony,"November 22, 2010",47,75,0
+Belle and Sebastian,Belle and Sebastian Write About Love,"October 12, 2010",41,75,78
+Wolf Parade,Expo 86,"June 29, 2010",26,75,88
+HEALTH,::Disco2,"July 6, 2010",27,75,83
+Holy Fuck,Latin,"May 11, 2010",19,75,79
+Strong Arm Steady,In Search Of Stoney Jackson,"January 27, 2010",4,75,80
+Crowded House,Intriguer,"July 13, 2010",28,75,76
+Torche,Songs for Singles,"September 21, 2010",38,75,80
+Three Mile Pilot,The Inevitable Past Is the Future Forgotten,"September 28, 2010",39,75,0
+Waka Flocka Flame,Flockaveli,"October 5, 2010",40,75,70
+Jaga Jazzist,One Armed Bandit,"February 23, 2010",8,75,85
+Allo Darlin',Allo Darlin',"October 5, 2010",40,75,0
+Bad Religion,The  Dissent of Man,"September 28, 2010",39,75,87
+Clogs,The Creatures In The Garden Of Lady Walton,"March 2, 2010",9,75,83
+Los Campesinos!,Romance Is Boring,"January 26, 2010",4,75,82
+Jaime Meline,Weareallgoingtoburninhellmegamixxx3,"August 3, 2010",31,75,85
+Alberta Cross,Broken Side Of Time,"March 9, 2010",10,75,86
+Happy Birthday,Happy Birthday,"March 16, 2010",11,75,0
+Sam Prekop,Old Punch Card,"September 7, 2010",36,75,0
+Robert Randolph,We Walk This Road,"June 22, 2010",25,75,0
+Junip,Fields,"September 14, 2010",37,75,82
+Groove Armada,Black Light,"March 2, 2010",9,75,78
+Dirty Money,Last Train to Paris,"December 14, 2010",50,75,72
+Robyn Hitchcock & The Venus 3,Propellor Time,"April 6, 2010",14,75,83
+Josh Rouse,El Turista,"March 9, 2010",10,75,56
+Pat Metheny,Orchestrion,"January 26, 2010",4,75,0
+The Greenhornes,Four Stars,"November 9, 2010",45,75,0
+Dungen,Skit I Allt,"September 14, 2010",37,75,0
+Isobel Campbell,Hawk,"August 24, 2010",34,75,74
+Eternal Summers,Silver,"September 27, 2010",39,74,0
+Nada Surf,If I Had A Hi-Fi,"June 8, 2010",23,74,79
+Prins Thomas,Prins Thomas,"April 13, 2010",15,74,0
+Tunng,...And Then We Saw Land,"April 6, 2010",14,74,0
+Abe Vigoda,Crush,"September 28, 2010",39,74,85
+The Hundred in the Hands,The Hundred in the Hands,"September 21, 2010",38,74,0
+Mike Patton,Mondo Cane,"May 4, 2010",18,74,87
+El Guincho,Pop Negro,"September 14, 2010",37,74,0
+Versus,On the Ones and Threes,"August 3, 2010",31,74,0
+Buddy Guy,Living Proof,"October 25, 2010",43,74,0
+Xiu Xiu,"Dear God, I Hate Myself","February 23, 2010",8,74,81
+Old 97's,"The Grand Theatre, Vol. 1","October 12, 2010",41,74,0
+The Living Sisters,Love To Live,"March 30, 2010",13,74,0
+Ted Leo & The Pharmacists,The Brutalist Bricks,"March 9, 2010",10,74,78
+Shearwater,Golden Archipelago,"February 23, 2010",8,74,88
+Darkstar,North,"November 2, 2010",44,74,78
+Love Is All,Two Thousand And Ten Injuries,"March 23, 2010",12,74,0
+Zach Hill,Face Tat,"October 19, 2010",42,74,89
+The Soft Pack,The Soft Pack,"February 2, 2010",5,74,80
+Delta Spirit,History From Below,"June 8, 2010",23,74,87
+Ólöf Arnalds,Innundir Skinni,"September 14, 2010",37,74,0
+The Acorn,No Ghost,"September 7, 2010",36,74,0
+Shipping News,One Less Heartless To Fear,"November 9, 2010",45,74,0
+Future Islands,In Evening Air,"May 4, 2010",18,74,87
+Past Lives,Tapestry Of Webs,"February 23, 2010",8,74,0
+Of Montreal,False Priest,"September 14, 2010",37,74,87
+Aloha,Home Acres,"March 9, 2010",10,74,0
+Loretta Lynn,Coal Miner's Daughter: A Tribute to Loretta Lynn,"November 9, 2010",45,74,0
+Menomena,Mines,"July 27, 2010",30,74,81
+Someone Still Loves You Boris Yeltsin,Let It Sway,"August 17, 2010",33,74,0
+Fitz & the Tantrums,Pickin' Up The Pieces,"August 24, 2010",34,74,77
+Mi Ami,Steal Your Face,"April 6, 2010",14,74,0
+The Clientele,Minotaur,"August 31, 2010",35,73,0
+Wooden Wand,Death Seat,"October 26, 2010",43,73,0
+Widespread Panic,Dirty Side Down,"May 25, 2010",21,73,88
+Mahjongg,The  Long Shadow of the Paper Tiger,"July 20, 2010",29,73,0
+She & Him,Volume Two,"March 23, 2010",12,73,80
+Beach Fossils,Beach Fossils,"July 27, 2010",30,73,78
+The Coral,Butterfly House,"July 12, 2010",28,73,81
+Danger Mouse And Sparklehorse,Dark Night Of The Soul,"July 13, 2010",28,73,79
+Ne-Yo,Libra Scale,"November 22, 2010",47,73,65
+Clinic,Bubblegum,"October 5, 2010",40,73,0
+Grass Widow,Past Time,"August 24, 2010",34,73,0
+Miller,Church with No Magic,"August 10, 2010",32,73,0
+Deer Tick,The Black Dirt Sessions,"June 8, 2010",23,73,75
+The Whitefield Brothers,Earthology,"February 2, 2010",5,73,0
+KT Tunstall,Tiger Suit,"October 5, 2010",40,73,84
+Sleepy Sun,Fever,"June 1, 2010",22,73,0
+S. Carey,All We Grow,"August 24, 2010",34,73,78
+Citay,Dream Get Together,"January 26, 2010",4,73,0
+Danzig,Deth Red Sabaoth,"June 22, 2010",25,73,0
+Bettye LaVette,Interpretations: The British Rock Songbook,"May 25, 2010",21,73,0
+The Drums,The Drums,"September 14, 2010",37,73,79
+Efterklang,Magic Chairs,"February 23, 2010",8,73,84
+Black Mountain,Wilderness Heart,"September 14, 2010",37,73,77
+Holly Golightly & the Brokeoffs,Medicine County,"March 30, 2010",13,73,0
+Tift Merritt,See You On The Moon,"June 1, 2010",22,73,0
+Meth-Ghost-Rae,Wu-Massacre,"March 30, 2010",13,73,78
+Giant Sand,Blurry Blue Mountain,"November 23, 2010",47,73,0
+Cornershop,Judy Sucks A Lemon For Breakfast,"April 20, 2010",16,73,70
+Major Lazer,Lazers Never Die,"July 27, 2010",30,73,71
+High Places,High Places Vs. Mankind,"March 23, 2010",12,73,0
+Oh No Ono,Eggs,"January 26, 2010",4,73,77
+Nas And Damian Marley,Distant Relatives,"May 18, 2010",20,73,87
+Bonobo,Black Sands,"March 23, 2010",12,73,88
+Gogol Bordello,Trans-Continental Hustle,"April 27, 2010",17,72,85
+The Pariah Dogs,God Willin' & the Creek Don't Rise,"August 17, 2010",33,72,86
+Cloud Cult,Light Chasers,"September 14, 2010",37,72,80
+Sambassadeur,European,"February 23, 2010",8,72,0
+The Len Price 3,Pictures,"January 19, 2010",3,72,0
+Kaki King,Junior,"April 13, 2010",15,72,77
+Salem,King Night,"September 28, 2010",39,72,80
+Trans Am,Thing,"April 20, 2010",16,72,0
+Lali Puna,Our Inventions,"April 27, 2010",17,72,0
+Jamie Cullum,The Pursuit,"March 2, 2010",9,72,80
+Magnetic Fields,Realism,"January 26, 2010",4,72,71
+Shelby Lynne,"Tears, Lies, And Alibis","April 20, 2010",16,72,73
+MGMT,Congratulations,"April 13, 2010",15,72,82
+Bryan Ferry,Olympia,"October 25, 2010",43,72,72
+The Morning Benders,Big Echo,"March 9, 2010",10,72,83
+White Hills,White Hills,"February 23, 2010",8,72,0
+Rufus Wainwright,All Days Are Nights: Songs For Lulu,"April 20, 2010",16,72,0
+Basia Bulat,Heart Of My Own,"January 26, 2010",4,72,87
+Frankie Rose and the Outs,Frankie Rose and the Outs,"September 21, 2010",38,72,0
+The Thermals,Personal Life,"September 7, 2010",36,72,77
+Mark Olson,Many Colored Kite,"July 27, 2010",30,72,0
+Secret Cities,Pink Graffiti,"July 20, 2010",29,72,0
+Tom Petty & the Heartbreakers,Mojo,"June 15, 2010",24,72,81
+Jakob Dylan,Women + Country,"April 6, 2010",14,72,75
+Everything Everything,Man Alive,"August 30, 2010",35,72,84
+Emma Pollock,The Law Of Large Numbers,"March 2, 2010",9,72,0
+Jenny and Johnny,I'm Having Fun Now,"August 31, 2010",35,72,72
+Eric Clapton,Clapton,"September 28, 2010",39,72,84
+Massive Attack,Heligoland,"February 9, 2010",6,72,82
+The Like,Release Me,"June 15, 2010",24,72,83
+The Sword,Warp Riders,"August 24, 2010",34,72,83
+The Apples In Stereo,Travellers In Space And Time,"April 20, 2010",16,72,75
+Murs & 9th Wonder,Fornever,"April 13, 2010",15,72,0
+Midlake,The Courage Of Others,"February 2, 2010",5,72,82
+Archie Bronson Outfit,Coconut,"March 23, 2010",12,72,73
+Leo Abrahams,Small Craft On A Milk Sea,"November 2, 2010",44,72,77
+The Orb,Metallic Spheres,"October 12, 2010",41,72,74
+Scissor Sisters,Night Work,"June 29, 2010",26,72,86
+Wavves,King of the Beach,"August 3, 2010",31,72,83
+Ciara,Basic Instinct,"December 14, 2010",50,72,61
+Silje Nes,Opticks,"October 12, 2010",41,72,0
+Chatham County Line,Wildwood,"July 13, 2010",28,72,0
+Jason Collett,Rat A Tat Tat,"March 9, 2010",10,72,0
+Lightspeed Champion,Life Is Sweet! Nice To Meet You,"February 16, 2010",7,72,68
+Rhymefest,El Che,"June 8, 2010",23,71,0
+Land of Talk,Cloak and Cipher,"August 24, 2010",34,71,82
+I Am Arrows,Sun Comes Up Again,"July 20, 2010",29,71,0
+Actress,Splazsh,"June 8, 2010",23,71,82
+Broken Bells,Broken Bells,"March 9, 2010",10,71,85
+Blue Giant,Blue Giant,"July 13, 2010",28,71,0
+Daft Punk,Tron: Legacy,"December 7, 2010",49,71,84
+Balmorhea,Constellations,"February 23, 2010",8,71,0
+John Hiatt,The Open Road,"March 2, 2010",9,71,0
+Anberlin,"Dark Is the Way, Light Is a Place","September 7, 2010",36,71,76
+Peggy Sue,Fossils And Other Phantoms,"June 1, 2010",22,71,0
+Julian Lynch,Terra,"November 30, 2010",48,71,0
+Oval,O,"September 7, 2010",36,71,0
+Coheed and Cambria,Year Of The Black Rainbow,"April 13, 2010",15,71,63
+Quasi,American Gong,"February 23, 2010",8,71,0
+The Charlatans UK,Who We Touch,"September 14, 2010",37,71,86
+Blank Dogs,Land and Fixed,"November 8, 2010",45,71,0
+Toro y Moi,Causers of This,"February 9, 2010",6,71,87
+Sun Airway,Nocturne of Exploded Crystal Chandelier,"October 25, 2010",43,71,0
+Tokyo Police Club,Champ,"June 8, 2010",23,71,82
+Iron Maiden,The Final Frontier,"August 17, 2010",33,71,82
+Eels,End Times,"January 19, 2010",3,71,77
+Jaill,That's How We Burn,"July 27, 2010",30,71,0
+The Bird And The Bee,"Interpreting The Masters, Volume 1: A Tribute to Daryl Hall And John Oates","March 23, 2010",12,71,0
+Delphic,Acolyte,"June 29, 2010",26,71,75
+The Red Krayola With Art & Language,Five American Portraits,"January 26, 2010",4,71,0
+The Hot Rats,Turn Ons,"January 19, 2010",3,71,0
+The New Pornographers,Together,"May 4, 2010",18,71,87
+jj,jj no 3,"March 9, 2010",10,71,81
+The Ruby Suns,Fight Softly,"March 2, 2010",9,71,72
+Pernice Brothers,Goodbye Killer,"June 15, 2010",24,71,75
+Ryan Adams & the Cardinals,III/IV,"December 14, 2010",50,71,71
+Thee Oh Sees,Warm Slime,"May 11, 2010",19,70,87
+The Chemical Brothers,Further,"June 22, 2010",25,70,82
+Stereolab,Not Music,"November 16, 2010",46,70,78
+Maps & Atlases,Perch Patchwork,"June 29, 2010",26,70,76
+Jerry Lee Lewis,Mean Old Man,"September 7, 2010",36,70,0
+Disturbed,Asylum,"August 31, 2010",35,70,81
+Here We Go Magic,Pigeons,"June 8, 2010",23,70,80
+Stars,The Five Ghosts,"June 22, 2010",25,70,79
+Margot & the Nuclear So and So's,Buzzard,"September 21, 2010",38,70,0
+The Dead Weather,Sea Of Cowards,"May 11, 2010",19,70,80
+Stone Temple Pilots,Stone Temple Pilots,"May 25, 2010",21,70,79
+Hauschka,Foreign Landscapes,"October 12, 2010",41,70,0
+First Aid Kit,The Big Black And The Blue,"May 25, 2010",21,70,83
+Adam Green,Minor Love,"February 16, 2010",7,70,83
+Laetitia Sadier,The Trip,"September 21, 2010",38,70,0
+Kele Okereke,The Boxer,"June 22, 2010",25,70,84
+Blood Red Shoes,Fire Like This,"March 1, 2010",9,70,76
+Plants and Animals,La La Land,"April 20, 2010",16,70,83
+Black Francis,Non Stop Erotik,"March 30, 2010",13,70,84
+Kelley Stoltz,To Dreamers,"October 12, 2010",41,70,0
+The Black Angels,Phosphene Dream,"September 14, 2010",37,70,85
+Mark Ronson and the Business Intl,Record Collection,"September 28, 2010",39,70,76
+Department of Eagles,Archive 2003-2006,"July 20, 2010",29,70,0
+Suuns,Zeroes QC,"October 12, 2010",41,70,0
+Ra Ra Riot,The  Orchard,"August 24, 2010",34,70,83
+My Chemical Romance,Danger Days: The True Lives of the Fabulous Killjoys,"November 22, 2010",47,70,82
+Alkaline Trio,This Addiction,"February 23, 2010",8,70,79
+Shy Child,Liquid Love,"March 15, 2010",11,70,0
+Harlem,Hippies,"April 6, 2010",14,70,88
+Fantasia,Back to Me,"August 24, 2010",34,70,85
+Koool G Murder,Tomorrow Morning,"August 24, 2010",34,69,78
+Tobacco,Maniac Meat,"May 25, 2010",21,69,83
+Ryan Bingham & the Dead Horses,Junky Star,"August 31, 2010",35,69,0
+We Are Wolves,Invisible Violence,"February 23, 2010",8,69,0
+Band of Horses,Infinite Arms,"May 18, 2010",20,69,70
+Lissie,Catching a Tiger,"August 17, 2010",33,69,84
+The Black Crowes,Croweology,"August 3, 2010",31,69,0
+The Album Leaf,A Chorus of Storytellers,"February 2, 2010",5,69,85
