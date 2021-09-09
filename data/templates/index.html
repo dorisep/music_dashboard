@@ -3,12 +3,33 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- CSS only -->
+    <!-- CSS only -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous">
     <title>dashboard</title>
 </head>
 <body>
     <h1>get the db</h1>
     
-        {{ a }}
+    <table class = table>
+        <th>artist</th> 
+        <th>album</th>
+        <th>date</th>
+        <th>meta_score</th>
+        <th>user_score</th>
+        <th>week_num</th>
+        {% for row in data %}
+         <tr>
+            <td>{{row.artist}}</td>
+            <td>{{row.album}}</td>
+            <td>{{row.date}}</td>
+            <td>{{row.meta_score}}</td>
+            <td>{{row.user_score}}</td>
+            <td>{{row.week_num}}</td>
+        </tr>
+        {% endfor %}
+    </table>
+       
     
    
 </body>
