@@ -30,7 +30,7 @@ def close_connection (exception):
 # create index route
 @app.route('/')
 def index():
-    data = query_db('select * from albums')
+    data = query_db('select * from albums where week_num = 20')
     for k in data:
         print(k['album'])
     return render_template('index.html', data = data)
