@@ -2,11 +2,12 @@
 from flask import g, Flask, app, render_template, redirect
 import sqlite3
 import os
-# assign instance of Flask
+
+# assign an instance of Flask
 app = Flask(__name__)
 # db path
 DATABASE = 'music_dashboard.db'
-# create db connection and create a row factory
+# create db connection and create a dictionary cursor using row_factory
 def get_db():
     db = getattr(g, '_music_dashboard', None) 
     if db is None:
@@ -20,8 +21,6 @@ def query_db(query, args=(), one=False):
         rv = cur.fetchall()
         cur.close()
     return (rv[0] if rv else None) if one else rv
-
-  
 # create teardown for db connection
 @app.teardown_appcontext
 def close_connection (exception):
@@ -32,8 +31,9 @@ def close_connection (exception):
 @app.route('/')
 def index():
     data = query_db('select * from albums')
+    for k in data:
+        print(k['album'])
     return render_template('index.html', data = data)
-
 # run app in debug mode for developement 
 if __name__ == "__main__":
     app.run(debug=True)
